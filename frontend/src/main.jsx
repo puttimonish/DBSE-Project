@@ -141,43 +141,46 @@ function App() {
   }
 
   function add(m) {
+    const stock = Number(m.stock || 0);
+    const found = cart.find(x => x.id === m.id);
+
+    if (stock <= 0) {
+      setNotice(`${m.name} is currently unavailable`);
+      return;
+    }
+
+    if (found && found.qty >= stock) {
+      setNotice(`Only ${stock} unit(s) of ${m.name} are available`);
+      return;
+    }
+
     setCart(current => {
-      const found = current.find(x => x.id === m.id);
-      const stock = Number(m.stock || 0);
-
-      if (found) {
-        if (found.qty >= stock) {
-          setNotice(`Only ${stock} unit(s) of ${m.name} are available`);
-          return current;
-        }
-        return current.map(x => x.id === m.id ? { ...x, qty: x.qty + 1 } : x);
-      }
-
-      if (stock <= 0) {
-        setNotice(`${m.name} is currently unavailable`);
-        return current;
-      }
-
-      return [...current, { ...m, qty: 1 }];
+      const existing = current.find(x => x.id === m.id);
+      return existing
+        ? current.map(x => x.id === m.id ? { ...x, qty: x.qty + 1 } : x)
+        : [...current, { ...m, qty: 1 }];
     });
+
     setNotice(`${m.name} added to cart`);
     setTimeout(() => setNotice(''), 1800);
   }
 
   function changeQty(id, delta) {
-    setCart(current => current
-      .map(item => {
-        if (item.id !== id) return item;
-        const next = item.qty + delta;
-        const stock = Number(item.stock || 0);
-        if (next <= 0) return null;
-        if (next > stock) {
-          setNotice(`Only ${stock} unit(s) are available`);
-          return item;
-        }
-        return { ...item, qty: next };
-      })
-      .filter(Boolean)
+    const item = cart.find(x => x.id === id);
+    if (!item) return;
+
+    const next = item.qty + delta;
+    const stock = Number(item.stock || 0);
+
+    if (next > stock) {
+      setNotice(`Only ${stock} unit(s) of ${item.name} are available`);
+      return;
+    }
+
+    setCart(current =>
+      current
+        .map(x => x.id === id ? { ...x, qty: next } : x)
+        .filter(x => x.qty > 0)
     );
   }
 
@@ -255,7 +258,6 @@ function App() {
       setCart(JSON.parse(localStorage.getItem(`pf_cart_${d.user.id}`) || '[]'));
     } catch { setCart([]); }
     localStorage.removeItem('pf_cart');
-      setNotice('');
     setNotice('Signed in successfully');
     go('home');
   }
@@ -768,7 +770,7 @@ function App() {
                           <p className="rxText">{p.ocr_text}</p>
                         )}
                         {String(p.status).toUpperCase() === 'APPROVED' && (
-                          <div className="rxApproved">âœ“ Approved prescription can be used at checkout.</div>
+                          <div className="rxApproved">\u2713 Approved prescription can be used at checkout.</div>
                         )}
                       </div>
                     ))}
@@ -1066,7 +1068,7 @@ function Admin({ token, setNotice }) {
       {rx.map(p => (
         <div className="rxrow" key={p.id}>
           <div>
-            <strong>#{p.id} Ã¢â‚¬Â¢ {p.customer}</strong>
+            <strong>#{p.id} \u2022 {p.customer}</strong>
             <p>{p.file_name}</p>`r`n            <button type="button" className="openRxBtn" onClick={() => openPrescription(p.id)}>Open prescription</button>
             <small>{p.ocr_text}</small>
           </div>
