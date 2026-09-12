@@ -1068,7 +1068,7 @@ function Admin({ token, setNotice }) {
       {rx.map(p => (
         <div className="rxrow" key={p.id}>
           <div>
-            <strong>#{p.id} \u2022 {p.customer}</strong>
+            <strong>#{p.id} â€¢ {p.customer}</strong>
             <p>{p.file_name}</p>`r`n            <button type="button" className="openRxBtn" onClick={() => openPrescription(p.id)}>Open prescription</button>
             <small>{p.ocr_text}</small>
           </div>
@@ -1088,6 +1088,7 @@ function Admin({ token, setNotice }) {
 }
 
 createRoot(document.getElementById('root')).render(<App />);
+
 
 
 
