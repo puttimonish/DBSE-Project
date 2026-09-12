@@ -1,0 +1,5588 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-09-10",
+    "results": {
+      "skip": 0,
+      "limit": 100,
+      "total": 137830
+    }
+  },
+  "results": [
+    {
+      "product_ndc": "76282-225",
+      "generic_name": "Gemfibrozil",
+      "labeler_name": "Exelan Pharmaceuticals, Inc.",
+      "brand_name": "Gemfibrozil",
+      "active_ingredients": [
+        {
+          "name": "GEMFIBROZIL",
+          "strength": "600 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "76282-225-05",
+          "description": "500 TABLET, FILM COATED in 1 BOTTLE (76282-225-05)",
+          "marketing_start_date": "20061020",
+          "sample": false
+        },
+        {
+          "package_ndc": "76282-225-18",
+          "description": "180 TABLET, FILM COATED in 1 BOTTLE (76282-225-18)",
+          "marketing_start_date": "20061020",
+          "sample": false
+        },
+        {
+          "package_ndc": "76282-225-60",
+          "description": "60 TABLET, FILM COATED in 1 BOTTLE (76282-225-60)",
+          "marketing_start_date": "20061020",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Exelan Pharmaceuticals, Inc."
+        ],
+        "rxcui": [
+          "310459"
+        ],
+        "spl_set_id": [
+          "5c09fe54-697e-4cd5-9a26-7c9c7fa9a864"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0376282225609"
+        ],
+        "nui": [
+          "N0000175596",
+          "N0000175375",
+          "M0543661"
+        ],
+        "pharm_class_epc": [
+          "Peroxisome Proliferator Receptor alpha Agonist [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Peroxisome Proliferator-activated Receptor alpha Agonists [MoA]"
+        ],
+        "pharm_class_cs": [
+          "Fibric Acids [CS]"
+        ],
+        "unii": [
+          "Q8X02027X3"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, FILM COATED",
+      "spl_id": "9d0b053e-d825-4af2-b923-35d7709da23e",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20061020",
+      "product_id": "76282-225_9d0b053e-d825-4af2-b923-35d7709da23e",
+      "application_number": "ANDA077836",
+      "brand_name_base": "Gemfibrozil",
+      "pharm_class": [
+        "PPAR alpha [CS]",
+        "Peroxisome Proliferator Receptor alpha Agonist [EPC]",
+        "Peroxisome Proliferator-activated Receptor alpha Agonists [MoA]"
+      ]
+    },
+    {
+      "product_ndc": "76346-450",
+      "generic_name": "Relacorilant",
+      "labeler_name": "Corcept Therapeutics Incorporated",
+      "brand_name": "Lifyorli",
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "76346-450-01",
+          "description": "1 BLISTER PACK in 1 CARTON (76346-450-01)  / 1 KIT in 1 BLISTER PACK (76346-450-11)  *  1 CAPSULE in 1 PACKAGE, COMBINATION (76346-025-01)  *  1 CAPSULE in 1 PACKAGE, COMBINATION (76346-100-01)",
+          "marketing_start_date": "20260325",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Corcept Therapeutics Incorporated"
+        ],
+        "rxcui": [
+          "2739542",
+          "2739548",
+          "2739550",
+          "2739552",
+          "2739553",
+          "2739554",
+          "2739555",
+          "2739556",
+          "2739557",
+          "2739558",
+          "2739559",
+          "2739560",
+          "2739561",
+          "2739562",
+          "2739563",
+          "2739564"
+        ],
+        "spl_set_id": [
+          "6fcebfb5-19d6-4f63-b852-999d68a13729"
+        ],
+        "is_original_packager": [
+          true
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "KIT",
+      "spl_id": "41bf3142-d0f6-4f0c-b6da-5abe8ad3db43",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20260325",
+      "product_id": "76346-450_41bf3142-d0f6-4f0c-b6da-5abe8ad3db43",
+      "application_number": "NDA220641",
+      "brand_name_base": "Lifyorli"
+    },
+    {
+      "product_ndc": "76381-735",
+      "generic_name": "Iomeprol Injection",
+      "labeler_name": "BIPSO GmbH",
+      "brand_name": "Iomeron",
+      "active_ingredients": [
+        {
+          "name": "IOMEPROL",
+          "strength": "714 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "76381-735-15",
+          "description": "30 BOTTLE, GLASS in 1 BOX (76381-735-15)  / 150 mL in 1 BOTTLE, GLASS",
+          "marketing_start_date": "20220701",
+          "marketing_end_date": "20270201",
+          "sample": false
+        },
+        {
+          "package_ndc": "76381-735-20",
+          "description": "10 BOTTLE, GLASS in 1 BOX (76381-735-20)  / 200 mL in 1 BOTTLE, GLASS",
+          "marketing_start_date": "20220701",
+          "marketing_end_date": "20270301",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "BIPSO GmbH"
+        ],
+        "spl_set_id": [
+          "30a993a8-9afb-42c2-a4b2-72a6b361d43c"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000180185",
+          "N0000010258"
+        ],
+        "pharm_class_epc": [
+          "Radiographic Contrast Agent [EPC]"
+        ],
+        "pharm_class_moa": [
+          "X-Ray Contrast Activity [MoA]"
+        ],
+        "unii": [
+          "17E17JBP8L"
+        ]
+      },
+      "marketing_category": "UNAPPROVED DRUG FOR USE IN DRUG SHORTAGE",
+      "dosage_form": "INJECTION, SOLUTION",
+      "spl_id": "466579a4-4788-47ad-876a-b0a673f07a72",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "INTRAVASCULAR"
+      ],
+      "marketing_start_date": "20220701",
+      "product_id": "76381-735_466579a4-4788-47ad-876a-b0a673f07a72",
+      "brand_name_base": "Iomeron",
+      "pharm_class": [
+        "Radiographic Contrast Agent [EPC]",
+        "X-Ray Contrast Activity [MoA]"
+      ]
+    },
+    {
+      "product_ndc": "76420-263",
+      "generic_name": "zolpidem tartrate",
+      "labeler_name": "Asclemed USA, Inc.",
+      "dea_schedule": "CIV",
+      "brand_name": "ZOLPIDEM TARTRATE",
+      "active_ingredients": [
+        {
+          "name": "ZOLPIDEM TARTRATE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "76420-263-00",
+          "description": "1000 TABLET in 1 BOTTLE (76420-263-00)",
+          "marketing_start_date": "20250210",
+          "sample": false
+        },
+        {
+          "package_ndc": "76420-263-01",
+          "description": "100 TABLET in 1 BOTTLE (76420-263-01)",
+          "marketing_start_date": "20250210",
+          "sample": false
+        },
+        {
+          "package_ndc": "76420-263-05",
+          "description": "500 TABLET in 1 BOTTLE (76420-263-05)",
+          "marketing_start_date": "20250210",
+          "sample": false
+        },
+        {
+          "package_ndc": "76420-263-15",
+          "description": "1500 TABLET in 1 BOTTLE (76420-263-15)",
+          "marketing_start_date": "20250210",
+          "sample": false
+        },
+        {
+          "package_ndc": "76420-263-30",
+          "description": "30 TABLET in 1 BOTTLE (76420-263-30)",
+          "marketing_start_date": "20220810",
+          "sample": false
+        },
+        {
+          "package_ndc": "76420-263-60",
+          "description": "60 TABLET in 1 BOTTLE (76420-263-60)",
+          "marketing_start_date": "20220810",
+          "sample": false
+        },
+        {
+          "package_ndc": "76420-263-90",
+          "description": "90 TABLET in 1 BOTTLE (76420-263-90)",
+          "marketing_start_date": "20250210",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Asclemed USA, Inc."
+        ],
+        "rxcui": [
+          "854873",
+          "854876"
+        ],
+        "spl_set_id": [
+          "e5e2d31b-ce26-78b0-e053-2a95a90ac491"
+        ],
+        "unii": [
+          "WY6W63843K"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "2dc3187e-761a-9ef3-e063-6294a90ae216",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20070905",
+      "product_id": "76420-263_2dc3187e-761a-9ef3-e063-6294a90ae216",
+      "application_number": "ANDA077903",
+      "brand_name_base": "ZOLPIDEM TARTRATE",
+      "pharm_class": [
+        "Central Nervous System Depression [PE]",
+        "GABA A Receptor Positive Modulators [MoA]",
+        "gamma-Aminobutyric Acid A Receptor Positive Modulator [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "76420-663",
+      "generic_name": "alprazolam",
+      "labeler_name": "Asclemed USA, Inc.",
+      "dea_schedule": "CIV",
+      "brand_name": "Alprazolam",
+      "active_ingredients": [
+        {
+          "name": "ALPRAZOLAM",
+          "strength": "1 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "76420-663-01",
+          "description": "100 TABLET in 1 BOTTLE (76420-663-01)",
+          "marketing_start_date": "20240111",
+          "sample": false
+        },
+        {
+          "package_ndc": "76420-663-30",
+          "description": "30 TABLET in 1 BOTTLE (76420-663-30)",
+          "marketing_start_date": "20240111",
+          "sample": false
+        },
+        {
+          "package_ndc": "76420-663-60",
+          "description": "60 TABLET in 1 BOTTLE (76420-663-60)",
+          "marketing_start_date": "20240111",
+          "sample": false
+        },
+        {
+          "package_ndc": "76420-663-90",
+          "description": "90 TABLET in 1 BOTTLE (76420-663-90)",
+          "marketing_start_date": "20240111",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Asclemed USA, Inc."
+        ],
+        "rxcui": [
+          "197321",
+          "197322",
+          "308047",
+          "308048"
+        ],
+        "spl_set_id": [
+          "e3245259-024f-4bd9-9ec6-94aa11febfd7"
+        ],
+        "nui": [
+          "N0000175694",
+          "M0002356"
+        ],
+        "pharm_class_epc": [
+          "Benzodiazepine [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Benzodiazepines [CS]"
+        ],
+        "unii": [
+          "YU55MQ3IZY"
+        ]
+      },
+      "marketing_category": "NDA AUTHORIZED GENERIC",
+      "dosage_form": "TABLET",
+      "spl_id": "0ea9692e-7d75-80f3-e063-6294a90ad6f9",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "19811016",
+      "product_id": "76420-663_0ea9692e-7d75-80f3-e063-6294a90ad6f9",
+      "application_number": "NDA018276",
+      "brand_name_base": "Alprazolam",
+      "pharm_class": [
+        "Benzodiazepine [EPC]",
+        "Benzodiazepines [CS]"
+      ]
+    },
+    {
+      "product_ndc": "76431-310",
+      "marketing_end_date": "20280601",
+      "generic_name": "birch triterpenes",
+      "labeler_name": "Amryt Pharmaceuticals DAC",
+      "brand_name": "FILSUVEZ",
+      "active_ingredients": [
+        {
+          "name": "BIRCH TRITERPENES",
+          "strength": "100 mg/g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "76431-310-01",
+          "description": "1 TUBE in 1 CARTON (76431-310-01)  / 23.4 g in 1 TUBE",
+          "marketing_start_date": "20240222",
+          "marketing_end_date": "20280601",
+          "sample": false
+        }
+      ],
+      "openfda": {
+        "manufacturer_name": [
+          "Amryt Pharmaceuticals DAC"
+        ],
+        "rxcui": [
+          "2675587",
+          "2675592"
+        ],
+        "spl_set_id": [
+          "da793f2d-0a3d-4792-8c22-982f9f8cdd97"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "BX09B0RQR0"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "GEL",
+      "spl_id": "59bc2507-59e9-48c0-8c87-f65bb0f32258",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20240222",
+      "product_id": "76431-310_59bc2507-59e9-48c0-8c87-f65bb0f32258",
+      "application_number": "NDA215064",
+      "brand_name_base": "FILSUVEZ"
+    },
+    {
+      "product_ndc": "76891-135",
+      "generic_name": "ALCOHOL",
+      "labeler_name": "SCENT THEORY PRODUCTS LLC",
+      "brand_name": "HAND SANITIZER COCONUT BREEZE",
+      "brand_name_suffix": "COCONUT BREEZE",
+      "active_ingredients": [
+        {
+          "name": "ALCOHOL",
+          "strength": "62 mL/100mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "76891-135-11",
+          "description": "29 mL in 1 BOTTLE (76891-135-11)",
+          "marketing_start_date": "20240607",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "SCENT THEORY PRODUCTS LLC"
+        ],
+        "rxcui": [
+          "581660"
+        ],
+        "spl_set_id": [
+          "1a5152b3-d674-f69a-e063-6394a90a6cac"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "3K9958V90M"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "GEL",
+      "spl_id": "1a5152b3-d673-f69a-e063-6394a90a6cac",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20240607",
+      "product_id": "76891-135_1a5152b3-d673-f69a-e063-6394a90a6cac",
+      "application_number": "M003",
+      "brand_name_base": "HAND SANITIZER"
+    },
+    {
+      "product_ndc": "77955-002",
+      "generic_name": "Alcohol",
+      "labeler_name": "Custom Chemical Solutions",
+      "brand_name": "Hand Sanitizer Foam",
+      "active_ingredients": [
+        {
+          "name": "ALCOHOL",
+          "strength": "70 mL/100mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "77955-002-02",
+          "description": "1000 mL in 1 BOTTLE (77955-002-02)",
+          "marketing_start_date": "20201005",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Custom Chemical Solutions"
+        ],
+        "rxcui": [
+          "616805"
+        ],
+        "spl_set_id": [
+          "b0f1cb6f-0b47-7652-e053-2a95a90a7c6b"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "3K9958V90M"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "SOLUTION",
+      "spl_id": "0f8c7c79-62a8-3513-e063-6294a90a16df",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20201005",
+      "product_id": "77955-002_0f8c7c79-62a8-3513-e063-6294a90a16df",
+      "application_number": "505G(a)(3)",
+      "brand_name_base": "Hand Sanitizer Foam"
+    },
+    {
+      "product_ndc": "79016-140",
+      "generic_name": "BENZALKONIUM CHLORIDE",
+      "labeler_name": "Archer Manufacturing, Inc.",
+      "brand_name": "OPS AB ANTIBACTERIAL FOAMING",
+      "active_ingredients": [
+        {
+          "name": "BENZALKONIUM CHLORIDE",
+          "strength": ".0013 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "79016-140-11",
+          "description": "1000 mL in 1 POUCH (79016-140-11)",
+          "marketing_start_date": "20211119",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Archer Manufacturing, Inc."
+        ],
+        "spl_set_id": [
+          "615921dd-46e5-403c-9ed3-f30beb0c0bb9"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "F5UM2KM3W7"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "SOAP",
+      "spl_id": "28925990-8eb4-0e52-e063-6394a90a3edd",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20200701",
+      "product_id": "79016-140_28925990-8eb4-0e52-e063-6394a90a3edd",
+      "application_number": "M003",
+      "brand_name_base": "OPS AB ANTIBACTERIAL FOAMING"
+    },
+    {
+      "product_ndc": "79481-0809",
+      "generic_name": "Neomycin, Polymyxin B, Pramoxine HCl",
+      "labeler_name": "Meijer, Inc.",
+      "brand_name": "first aid antibiotic and pain relief",
+      "active_ingredients": [
+        {
+          "name": "NEOMYCIN SULFATE",
+          "strength": "3.5 mg/g"
+        },
+        {
+          "name": "PRAMOXINE HYDROCHLORIDE",
+          "strength": "10 mg/g"
+        },
+        {
+          "name": "POLYMYXIN B SULFATE",
+          "strength": "10000 [USP'U]/g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "79481-0809-0",
+          "description": "1 TUBE in 1 CARTON (79481-0809-0)  / 14 g in 1 TUBE",
+          "marketing_start_date": "20210420",
+          "sample": false
+        },
+        {
+          "package_ndc": "79481-0809-1",
+          "description": "1 TUBE in 1 CARTON (79481-0809-1)  / 28 g in 1 TUBE",
+          "marketing_start_date": "20220606",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Meijer, Inc."
+        ],
+        "rxcui": [
+          "1359360"
+        ],
+        "spl_set_id": [
+          "f0892a30-8a88-44e8-ab04-0e87c12f9c44"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "057Y626693",
+          "88AYB867L5",
+          "19371312D4"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "CREAM",
+      "spl_id": "bab672c9-566d-4492-8320-d630cedf88d9",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20210420",
+      "product_id": "79481-0809_bab672c9-566d-4492-8320-d630cedf88d9",
+      "application_number": "M004",
+      "brand_name_base": "first aid antibiotic and pain relief",
+      "pharm_class": [
+        "Aminoglycoside Antibacterial [EPC]",
+        "Aminoglycosides [CS]",
+        "Polymyxin-class Antibacterial [EPC]",
+        "Polymyxins [CS]"
+      ]
+    },
+    {
+      "product_ndc": "80425-0215",
+      "generic_name": "Butalbital/Acetaminophen/Caffeine",
+      "labeler_name": "Advanced Rx Pharmacy of Tennessee, LLC",
+      "dea_schedule": "CIII",
+      "brand_name": "Butalbital/Acetaminophen/Caffeine",
+      "active_ingredients": [
+        {
+          "name": "BUTALBITAL",
+          "strength": "50 mg/1"
+        },
+        {
+          "name": "ACETAMINOPHEN",
+          "strength": "300 mg/1"
+        },
+        {
+          "name": "CAFFEINE",
+          "strength": "40 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "80425-0215-1",
+          "description": "30 CAPSULE in 1 BOTTLE (80425-0215-1)",
+          "marketing_start_date": "20230103",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Advanced Rx Pharmacy of Tennessee, LLC"
+        ],
+        "rxcui": [
+          "889520"
+        ],
+        "spl_set_id": [
+          "f16429e2-4944-5bbc-e053-2a95a90ab528"
+        ],
+        "nui": [
+          "N0000175693",
+          "M0002177",
+          "N0000175739",
+          "N0000175729",
+          "N0000175790",
+          "M0023046"
+        ],
+        "pharm_class_epc": [
+          "Barbiturate [EPC]",
+          "Central Nervous System Stimulant [EPC]",
+          "Methylxanthine [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Barbiturates [CS]",
+          "Xanthines [CS]"
+        ],
+        "pharm_class_pe": [
+          "Central Nervous System Stimulation [PE]"
+        ],
+        "unii": [
+          "KHS0AZ4JVK",
+          "362O9ITL9D",
+          "3G6A5W338E"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "CAPSULE",
+      "spl_id": "2a9aa22e-db3d-217b-e063-6294a90a4c41",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20230103",
+      "product_id": "80425-0215_2a9aa22e-db3d-217b-e063-6294a90a4c41",
+      "application_number": "ANDA213321",
+      "brand_name_base": "Butalbital/Acetaminophen/Caffeine",
+      "pharm_class": [
+        "Barbiturate [EPC]",
+        "Barbiturates [CS]",
+        "Central Nervous System Stimulant [EPC]",
+        "Central Nervous System Stimulation [PE]",
+        "Methylxanthine [EPC]",
+        "Xanthines [CS]"
+      ]
+    },
+    {
+      "product_ndc": "80425-0474",
+      "generic_name": "tizanidine hydrochloride",
+      "labeler_name": "Advanced Rx of Tennessee, LLC",
+      "brand_name": "tizanidine hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "TIZANIDINE HYDROCHLORIDE",
+          "strength": "4 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "80425-0474-1",
+          "description": "30 CAPSULE in 1 BOTTLE (80425-0474-1)",
+          "marketing_start_date": "20250120",
+          "sample": false
+        },
+        {
+          "package_ndc": "80425-0474-2",
+          "description": "60 CAPSULE in 1 BOTTLE (80425-0474-2)",
+          "marketing_start_date": "20250120",
+          "sample": false
+        },
+        {
+          "package_ndc": "80425-0474-3",
+          "description": "90 CAPSULE in 1 BOTTLE (80425-0474-3)",
+          "marketing_start_date": "20250120",
+          "sample": false
+        },
+        {
+          "package_ndc": "80425-0474-4",
+          "description": "120 CAPSULE in 1 BOTTLE (80425-0474-4)",
+          "marketing_start_date": "20251117",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Advanced Rx of Tennessee, LLC"
+        ],
+        "rxcui": [
+          "485485"
+        ],
+        "spl_set_id": [
+          "2c2bdad9-74a5-8508-e063-6294a90aac7f"
+        ],
+        "unii": [
+          "B53E3NMY5C"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "CAPSULE",
+      "spl_id": "43cfd33c-ce85-2381-e063-6394a90a4f1a",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20250120",
+      "product_id": "80425-0474_43cfd33c-ce85-2381-e063-6394a90a4f1a",
+      "application_number": "ANDA213798",
+      "brand_name_base": "tizanidine hydrochloride",
+      "pharm_class": [
+        "Adrenergic alpha2-Agonists [MoA]",
+        "Central alpha-2 Adrenergic Agonist [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "0603-1880",
+      "generic_name": "lidocaine",
+      "labeler_name": "Par Health USA, LLC",
+      "brand_name": "Lidocaine",
+      "active_ingredients": [
+        {
+          "name": "LIDOCAINE",
+          "strength": "50 mg/g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0603-1880-16",
+          "description": "30 POUCH in 1 CARTON (0603-1880-16)  / .7 g in 1 POUCH (0603-1880-10)",
+          "marketing_start_date": "20140502",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Par Health USA, LLC"
+        ],
+        "rxcui": [
+          "1745091"
+        ],
+        "spl_set_id": [
+          "2ce8a4fe-8aa6-4dc5-ad0f-3984ae68c4bc"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175682",
+          "M0000897",
+          "N0000175426",
+          "N0000175976"
+        ],
+        "pharm_class_epc": [
+          "Amide Local Anesthetic [EPC]",
+          "Antiarrhythmic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Amides [CS]"
+        ],
+        "pharm_class_pe": [
+          "Local Anesthesia [PE]"
+        ],
+        "unii": [
+          "98PI200987"
+        ]
+      },
+      "marketing_category": "NDA AUTHORIZED GENERIC",
+      "dosage_form": "PATCH",
+      "spl_id": "e28e90a6-c791-4d7d-93e2-c145badd45ac",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "CUTANEOUS"
+      ],
+      "marketing_start_date": "20140502",
+      "product_id": "0603-1880_e28e90a6-c791-4d7d-93e2-c145badd45ac",
+      "application_number": "NDA020612",
+      "brand_name_base": "Lidocaine",
+      "pharm_class": [
+        "Amide Local Anesthetic [EPC]",
+        "Amides [CS]",
+        "Antiarrhythmic [EPC]",
+        "Local Anesthesia [PE]"
+      ]
+    },
+    {
+      "product_ndc": "0603-5337",
+      "generic_name": "Prednisone",
+      "labeler_name": "Par Health USA, LLC",
+      "brand_name": "Prednisone",
+      "active_ingredients": [
+        {
+          "name": "PREDNISONE",
+          "strength": "5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0603-5337-15",
+          "description": "21 TABLET in 1 BOX, UNIT-DOSE (0603-5337-15)",
+          "marketing_start_date": "20020712",
+          "sample": false
+        },
+        {
+          "package_ndc": "0603-5337-21",
+          "description": "100 TABLET in 1 BOTTLE, PLASTIC (0603-5337-21)",
+          "marketing_start_date": "20020712",
+          "sample": false
+        },
+        {
+          "package_ndc": "0603-5337-31",
+          "description": "48 TABLET in 1 BOX, UNIT-DOSE (0603-5337-31)",
+          "marketing_start_date": "20020712",
+          "sample": false
+        },
+        {
+          "package_ndc": "0603-5337-32",
+          "description": "1000 TABLET in 1 BOTTLE, PLASTIC (0603-5337-32)",
+          "marketing_start_date": "20020712",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Par Health USA, LLC"
+        ],
+        "rxcui": [
+          "198144",
+          "198145",
+          "198146",
+          "312615",
+          "312617",
+          "763179",
+          "763181",
+          "763183",
+          "763185"
+        ],
+        "spl_set_id": [
+          "10fe5a3b-84dc-4600-87c2-b80c97ce18cf"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0306035338317",
+          "0306035337211",
+          "0306035338157",
+          "0306035335217",
+          "0306035336214",
+          "0306035337310",
+          "0306035338218"
+        ],
+        "nui": [
+          "N0000175576",
+          "N0000175450"
+        ],
+        "pharm_class_epc": [
+          "Corticosteroid [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Corticosteroid Hormone Receptor Agonists [MoA]"
+        ],
+        "unii": [
+          "VB0R961HZT"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "68bdeba1-553d-4d18-ae66-5eb8a0a880b8",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20020712",
+      "product_id": "0603-5337_68bdeba1-553d-4d18-ae66-5eb8a0a880b8",
+      "application_number": "ANDA040256",
+      "brand_name_base": "Prednisone",
+      "pharm_class": [
+        "Corticosteroid Hormone Receptor Agonists [MoA]",
+        "Corticosteroid [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "80228-2001",
+      "marketing_end_date": "20261105",
+      "generic_name": "Alcohol",
+      "labeler_name": "Universal Synergetics, Inc",
+      "brand_name": "Hand Sanitizer",
+      "active_ingredients": [
+        {
+          "name": "ALCOHOL",
+          "strength": ".84 mL/1.2mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "80228-2001-1",
+          "description": "1.2 mL in 1 POUCH (80228-2001-1)",
+          "marketing_start_date": "20210413",
+          "marketing_end_date": "20261105",
+          "sample": false
+        }
+      ],
+      "openfda": {
+        "manufacturer_name": [
+          "Universal Synergetics, Inc"
+        ],
+        "rxcui": [
+          "581662"
+        ],
+        "spl_set_id": [
+          "0dd6884c-935f-4523-b19a-201b7a8666fc"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "3K9958V90M"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "GEL",
+      "spl_id": "2eea5c8b-01b7-4fd2-e063-6294a90a2b46",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20210301",
+      "product_id": "80228-2001_2eea5c8b-01b7-4fd2-e063-6294a90a2b46",
+      "application_number": "M003",
+      "brand_name_base": "Hand Sanitizer"
+    },
+    {
+      "product_ndc": "80539-001",
+      "generic_name": "OLOPATADINE HYDROCHLORIDE",
+      "labeler_name": "Allwell Health Inc",
+      "brand_name": "OLOPATADINE HYDROCHLORIDE",
+      "active_ingredients": [
+        {
+          "name": "OLOPATADINE HYDROCHLORIDE",
+          "strength": "2 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "80539-001-39",
+          "description": "1 BOTTLE, PLASTIC in 1 CARTON (80539-001-39)  / 2.5 mL in 1 BOTTLE, PLASTIC",
+          "marketing_start_date": "20200715",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Allwell Health Inc"
+        ],
+        "rxcui": [
+          "1111343"
+        ],
+        "spl_set_id": [
+          "12d48ef6-ccf1-4bc3-8469-0061bb083f7c"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "2XG66W44KF"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "SOLUTION",
+      "spl_id": "12d48ef6-ccf1-4bc3-8469-0061bb083f7c",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "OPHTHALMIC"
+      ],
+      "marketing_start_date": "20200715",
+      "product_id": "80539-001_12d48ef6-ccf1-4bc3-8469-0061bb083f7c",
+      "application_number": "ANDA209995",
+      "brand_name_base": "OLOPATADINE HYDROCHLORIDE",
+      "pharm_class": [
+        "Decreased Histamine Release [PE]",
+        "Histamine H1 Receptor Antagonists [MoA]",
+        "Histamine-1 Receptor Inhibitor [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "80705-120",
+      "generic_name": "Carbinoxamine Maleate",
+      "labeler_name": "TRIPOINT THERAPEUTICS, LLC",
+      "brand_name": "Carbinoxamine Maleate",
+      "active_ingredients": [
+        {
+          "name": "CARBINOXAMINE MALEATE",
+          "strength": "6 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "80705-120-30",
+          "description": "30 TABLET in 1 BOTTLE (80705-120-30)",
+          "marketing_start_date": "20250722",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "TRIPOINT THERAPEUTICS, LLC"
+        ],
+        "rxcui": [
+          "1795581"
+        ],
+        "spl_set_id": [
+          "91ee2e99-082a-4157-b71b-1a7c0e5464fa"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0380705120303"
+        ],
+        "unii": [
+          "02O55696WH"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "28237aea-8a3c-40ca-b2a1-0b7248ce5b99",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20250722",
+      "product_id": "80705-120_28237aea-8a3c-40ca-b2a1-0b7248ce5b99",
+      "application_number": "ANDA215476",
+      "brand_name_base": "Carbinoxamine Maleate",
+      "pharm_class": [
+        "Histamine H1 Receptor Antagonists [MoA]",
+        "Histamine-1 Receptor Antagonist [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "81104-962",
+      "generic_name": "Zinc Oxide",
+      "labeler_name": "NAKED SUNDAYS PTY LTD",
+      "brand_name": "NAKED SUNDAYS CABANA GLOW MINERAL GLOW SERUM DROPS PEARL 40mL with Pink Algae SPF 50",
+      "brand_name_suffix": "SPF 50",
+      "active_ingredients": [
+        {
+          "name": "ZINC OXIDE",
+          "strength": "14.9 g/100mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "81104-962-01",
+          "description": "40 mL in 1 BOTTLE, DROPPER (81104-962-01)",
+          "marketing_start_date": "20240601",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "NAKED SUNDAYS PTY LTD"
+        ],
+        "spl_set_id": [
+          "1ddad045-7703-ea7e-e063-6394a90a2a5a"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "SOI2LOH54Z"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "LIQUID",
+      "spl_id": "3c3058aa-6be5-d32d-e063-6394a90a6098",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20230630",
+      "product_id": "81104-962_3c3058aa-6be5-d32d-e063-6394a90a6098",
+      "application_number": "M020",
+      "brand_name_base": "NAKED SUNDAYS CABANA GLOW MINERAL GLOW SERUM DROPS PEARL 40mL with Pink Algae"
+    },
+    {
+      "product_ndc": "81488-004",
+      "generic_name": "Silicea, Sulphur, Phosphorus, Calcarea Silicata, Natrum Nitricum, Ferrum Muriaticum, Kali Silicatum",
+      "labeler_name": "Kadesh Incoporation Co,Ltd",
+      "brand_name": "Mineffect first aid antiseptic and antibiotic solution",
+      "active_ingredients": [
+        {
+          "name": "SILICON DIOXIDE",
+          "strength": "4 [hp_X]/59mL"
+        },
+        {
+          "name": "SULFUR",
+          "strength": "4 [hp_X]/59mL"
+        },
+        {
+          "name": "PHOSPHORUS",
+          "strength": "6 [hp_X]/59mL"
+        },
+        {
+          "name": "CALCIUM SILICATE",
+          "strength": "5 [hp_X]/59mL"
+        },
+        {
+          "name": "SODIUM NITRATE",
+          "strength": "4 [hp_X]/59mL"
+        },
+        {
+          "name": "FERRIC CHLORIDE HEXAHYDRATE",
+          "strength": "7 [hp_X]/59mL"
+        },
+        {
+          "name": "POTASSIUM SILICATE",
+          "strength": "6 [hp_X]/59mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "81488-004-02",
+          "description": "1 BOTTLE, SPRAY in 1 BOX (81488-004-02)  / 59 mL in 1 BOTTLE, SPRAY",
+          "marketing_start_date": "20210201",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Kadesh Incoporation Co,Ltd"
+        ],
+        "spl_set_id": [
+          "9bd266bb-7078-413f-8fc9-642353589130"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "ETJ7Z6XBU4",
+          "70FD1KFU70",
+          "27YLU75U4W",
+          "S4255P4G5M",
+          "8M4L3H2ZVZ",
+          "0I2XIN602U",
+          "J86L1GUL6K"
+        ]
+      },
+      "marketing_category": "UNAPPROVED HOMEOPATHIC",
+      "dosage_form": "SPRAY",
+      "spl_id": "0906a804-bf9d-a63f-e063-6394a90a8e77",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20210201",
+      "product_id": "81488-004_0906a804-bf9d-a63f-e063-6394a90a8e77",
+      "brand_name_base": "Mineffect first aid antiseptic and antibiotic solution",
+      "pharm_class": [
+        "Blood Coagulation Factor [EPC]",
+        "Calcium [CS]",
+        "Cations",
+        "Divalent [CS]",
+        "Increased Coagulation Factor Activity [PE]",
+        "Increased Large Intestinal Motility [PE]",
+        "Inhibition Large Intestine Fluid/Electrolyte Absorption [PE]",
+        "Iron [CS]",
+        "Osmotic Activity [MoA]",
+        "Osmotic Laxative [EPC]",
+        "Parenteral Iron Replacement [EPC]",
+        "Phosphate Binder [EPC]",
+        "Phosphate Binder [EPC]",
+        "Phosphate Chelating Activity [MoA]",
+        "Phosphate Chelating Activity [MoA]",
+        "Potassium Compounds [CS]",
+        "Potassium Salt [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "81806-177",
+      "generic_name": "Deflazacort",
+      "labeler_name": "Doppel Farmaceutici S.r.l.",
+      "brand_name": "JAYTHARI",
+      "active_ingredients": [
+        {
+          "name": "DEFLAZACORT",
+          "strength": "36 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "81806-177-30",
+          "description": "1 BOTTLE in 1 CARTON (81806-177-30)  / 30 TABLET in 1 BOTTLE",
+          "marketing_start_date": "20250612",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Doppel Farmaceutici S.r.l."
+        ],
+        "spl_set_id": [
+          "3542a1e3-acfd-6b9a-e063-6394a90a9466"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175576",
+          "N0000175450"
+        ],
+        "pharm_class_epc": [
+          "Corticosteroid [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Corticosteroid Hormone Receptor Agonists [MoA]"
+        ],
+        "unii": [
+          "KR5YZ6AE4B"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "5a0e8719-3843-f24e-e063-6294a90a09b2",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20250612",
+      "product_id": "81806-177_5a0e8719-3843-f24e-e063-6294a90a09b2",
+      "application_number": "ANDA219254",
+      "brand_name_base": "JAYTHARI",
+      "pharm_class": [
+        "Corticosteroid Hormone Receptor Agonists [MoA]",
+        "Corticosteroid [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "82009-106",
+      "generic_name": "Citalopram Hydrobromide",
+      "labeler_name": "QUALLENT PHARMACEUTICALS HEALTH LLC",
+      "brand_name": "Citalopram",
+      "active_ingredients": [
+        {
+          "name": "CITALOPRAM HYDROBROMIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "82009-106-05",
+          "description": "500 TABLET, FILM COATED in 1 BOTTLE (82009-106-05)",
+          "marketing_start_date": "20230801",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "QUALLENT PHARMACEUTICALS HEALTH LLC"
+        ],
+        "rxcui": [
+          "200371",
+          "283672",
+          "309314"
+        ],
+        "spl_set_id": [
+          "e0822069-9672-4d4c-bc1a-8739b0dd045c"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "I1E9D14F36"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, FILM COATED",
+      "spl_id": "f85b3b65-e283-4270-895c-c601b6e7c6a6",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20230801",
+      "product_id": "82009-106_f85b3b65-e283-4270-895c-c601b6e7c6a6",
+      "application_number": "ANDA077031",
+      "brand_name_base": "Citalopram",
+      "pharm_class": [
+        "Serotonin Reuptake Inhibitor [EPC]",
+        "Serotonin Uptake Inhibitors [MoA]"
+      ]
+    },
+    {
+      "product_ndc": "82109-140",
+      "generic_name": "Homosalate, Zinc Oxide",
+      "labeler_name": "Rare Beauty, LLC",
+      "brand_name": "Positive Light Tinted Moisturizer Broad Spectrum SPF 20 Sunscreen 44N",
+      "active_ingredients": [
+        {
+          "name": "HOMOSALATE",
+          "strength": "65 mg/mL"
+        },
+        {
+          "name": "ZINC OXIDE",
+          "strength": "57 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "82109-140-01",
+          "description": "1 BOTTLE, PLASTIC in 1 CARTON (82109-140-01)  / 30 mL in 1 BOTTLE, PLASTIC",
+          "marketing_start_date": "20241101",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Rare Beauty, LLC"
+        ],
+        "spl_set_id": [
+          "2471e0fa-ddc8-1c62-e063-6294a90a4408"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "V06SV4M95S",
+          "SOI2LOH54Z"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "LOTION",
+      "spl_id": "2471f422-a721-3d3f-e063-6294a90a077f",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20241101",
+      "product_id": "82109-140_2471f422-a721-3d3f-e063-6294a90a077f",
+      "application_number": "M020",
+      "brand_name_base": "Positive Light Tinted Moisturizer Broad Spectrum SPF 20 Sunscreen 44N"
+    },
+    {
+      "product_ndc": "82345-856",
+      "generic_name": "METHYL SALICYLATE, CAPSAICIN",
+      "labeler_name": "The Hygenic Company, LLC",
+      "brand_name": "Atomic Balm",
+      "active_ingredients": [
+        {
+          "name": "METHYL SALICYLATE",
+          "strength": "125 mg/g"
+        },
+        {
+          "name": "CAPSAICIN",
+          "strength": ".25 mg/g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "82345-856-01",
+          "description": "454 g in 1 JAR (82345-856-01)",
+          "marketing_start_date": "20220401",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "The Hygenic Company, LLC"
+        ],
+        "rxcui": [
+          "1923329",
+          "2597539"
+        ],
+        "spl_set_id": [
+          "d10028f3-ae6a-7b01-e053-2995a90a5a84"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0311960043144"
+        ],
+        "unii": [
+          "LAV5U5022Y",
+          "S07O44R1ZM"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "OINTMENT",
+      "spl_id": "097358e0-ead1-c991-e063-6294a90acb81",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20220401",
+      "product_id": "82345-856_097358e0-ead1-c991-e063-6294a90acb81",
+      "application_number": "M017",
+      "brand_name_base": "Atomic Balm"
+    },
+    {
+      "product_ndc": "82461-421",
+      "generic_name": "Capsaicin",
+      "labeler_name": "Medcore LLC",
+      "brand_name": "Capsaicin 0.035",
+      "active_ingredients": [
+        {
+          "name": "CAPSAICIN",
+          "strength": ".035 g/100g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "82461-421-10",
+          "description": "10 PATCH in 1 CARTON (82461-421-10)  / 100 g in 1 PATCH",
+          "marketing_start_date": "20260904",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Medcore LLC"
+        ],
+        "spl_set_id": [
+          "1e63d1ce-16f7-4508-bced-bc62e6763673"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "S07O44R1ZM"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "PATCH",
+      "spl_id": "1037be37-fbca-4367-b228-e6c744ad8cff",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20260904",
+      "product_id": "82461-421_1037be37-fbca-4367-b228-e6c744ad8cff",
+      "application_number": "505G(a)(3)",
+      "brand_name_base": "Capsaicin 0.035"
+    },
+    {
+      "product_ndc": "82645-914",
+      "generic_name": "isopropyl alcohol",
+      "labeler_name": "Pharma Nobis, LLC",
+      "brand_name": "Isopropyl Alcohol 91 Percent",
+      "active_ingredients": [
+        {
+          "name": "ISOPROPYL ALCOHOL",
+          "strength": "910 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "82645-914-16",
+          "description": "473 mL in 1 BOTTLE (82645-914-16)",
+          "marketing_start_date": "20160101",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Pharma Nobis, LLC"
+        ],
+        "rxcui": [
+          "582901"
+        ],
+        "spl_set_id": [
+          "e42f6c6d-c4e0-02c6-e053-2995a90a3ace"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0052569139639",
+          "0010939758446",
+          "0087701427312"
+        ],
+        "unii": [
+          "ND2M416302"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "LIQUID",
+      "spl_id": "0d1cfe14-52e7-8975-e063-6294a90afbb7",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20160101",
+      "product_id": "82645-914_0d1cfe14-52e7-8975-e063-6294a90afbb7",
+      "application_number": "M003",
+      "brand_name_base": "Isopropyl Alcohol 91 Percent"
+    },
+    {
+      "product_ndc": "82749-010",
+      "generic_name": "Benzocaine",
+      "labeler_name": "Epic Medical Supply Corp",
+      "brand_name": "Sting Relief Swab",
+      "active_ingredients": [
+        {
+          "name": "MENTHOL, UNSPECIFIED FORM",
+          "strength": ".006 g/.6mL"
+        },
+        {
+          "name": "BENZOCAINE",
+          "strength": ".12 g/.6mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "82749-010-01",
+          "description": "6 mL in 1 CARTON (82749-010-01)",
+          "marketing_start_date": "20241029",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Epic Medical Supply Corp"
+        ],
+        "rxcui": [
+          "1037117"
+        ],
+        "spl_set_id": [
+          "259fbfe4-d67c-ea1e-e063-6294a90a0fb0"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0850042015339"
+        ],
+        "nui": [
+          "N0000185508",
+          "N0000175629",
+          "N0000184306",
+          "M0000728"
+        ],
+        "pharm_class_epc": [
+          "Standardized Chemical Allergen [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Increased Histamine Release [PE]",
+          "Cell-mediated Immunity [PE]"
+        ],
+        "pharm_class_cs": [
+          "Allergens [CS]"
+        ],
+        "unii": [
+          "L7T10EIP3A",
+          "U3RSY48JW5"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "SWAB",
+      "spl_id": "2b202e3c-e544-95eb-e063-6394a90a15fe",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20241029",
+      "product_id": "82749-010_2b202e3c-e544-95eb-e063-6394a90a15fe",
+      "application_number": "M017",
+      "brand_name_base": "Sting Relief Swab",
+      "pharm_class": [
+        "Allergens [CS]",
+        "Cell-mediated Immunity [PE]",
+        "Increased Histamine Release [PE]",
+        "Standardized Chemical Allergen [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "82804-164",
+      "generic_name": "Amlodipine Besylate",
+      "labeler_name": "Proficient Rx LP",
+      "brand_name": "Amlodipine Besylate",
+      "active_ingredients": [
+        {
+          "name": "AMLODIPINE BESYLATE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "82804-164-90",
+          "description": "90 TABLET in 1 BOTTLE (82804-164-90)",
+          "marketing_start_date": "20241106",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Proficient Rx LP"
+        ],
+        "rxcui": [
+          "308135"
+        ],
+        "spl_set_id": [
+          "f18148f9-42b2-43dc-9cf8-212d9121dc5f"
+        ],
+        "upc": [
+          "0382804164905"
+        ],
+        "unii": [
+          "864V2Q084H"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "f18148f9-42b2-43dc-9cf8-212d9121dc5f",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20180815",
+      "product_id": "82804-164_f18148f9-42b2-43dc-9cf8-212d9121dc5f",
+      "application_number": "ANDA078043",
+      "brand_name_base": "Amlodipine Besylate",
+      "pharm_class": [
+        "Calcium Channel Antagonists [MoA]",
+        "Calcium Channel Blocker [EPC]",
+        "Cytochrome P450 3A Inhibitors [MoA]",
+        "Dihydropyridine Calcium Channel Blocker [EPC]",
+        "Dihydropyridines [CS]"
+      ]
+    },
+    {
+      "product_ndc": "82969-2098",
+      "generic_name": "Sepia, Sanguinaria, Acid Sulph, Lachesis, Amyl Nitrosum, Aquilegia, Cimicifuga",
+      "labeler_name": "Bestmade Natural Products",
+      "brand_name": "Bestmade Natural Products BM98",
+      "active_ingredients": [
+        {
+          "name": "CIMICIFUGA RACEMOSA ROOT",
+          "strength": "30 [hp_C]/30[hp_C]"
+        },
+        {
+          "name": "AMYL NITRITE",
+          "strength": "30 [hp_C]/30[hp_C]"
+        },
+        {
+          "name": "LACHESIS MUTA VENOM",
+          "strength": "30 [hp_C]/30[hp_C]"
+        },
+        {
+          "name": "SEPIA OFFICINALIS JUICE",
+          "strength": "30 [hp_C]/30[hp_C]"
+        },
+        {
+          "name": "SANGUINARIA CANADENSIS ROOT",
+          "strength": "30 [hp_C]/30[hp_C]"
+        },
+        {
+          "name": "SULFURIC ACID",
+          "strength": "30 [hp_C]/30[hp_C]"
+        },
+        {
+          "name": "AQUILEGIA VULGARIS",
+          "strength": "30 [hp_C]/30[hp_C]"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "82969-2098-1",
+          "description": "30 [hp_C] in 1 BOTTLE, GLASS (82969-2098-1)",
+          "marketing_start_date": "20150101",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "UNAPPROVED HOMEOPATHIC",
+      "dosage_form": "LIQUID",
+      "spl_id": "2d68b0e8-32f3-5634-e063-6294a90a3dad",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20150101",
+      "product_id": "82969-2098_2d68b0e8-32f3-5634-e063-6294a90a3dad",
+      "brand_name_base": "Bestmade Natural Products BM98"
+    },
+    {
+      "product_ndc": "82969-5017",
+      "generic_name": "Arundo Mauritanica",
+      "labeler_name": "Bestmade Natural Products",
+      "brand_name": "Bestmade Natural Products Arundo Maur",
+      "active_ingredients": [
+        {
+          "name": "ARUNDO PLINIANA ROOT",
+          "strength": "30 [hp_C]/30[hp_C]"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "82969-5017-1",
+          "description": "30 [hp_C] in 1 BOTTLE, GLASS (82969-5017-1)",
+          "marketing_start_date": "20150101",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Bestmade Natural Products"
+        ],
+        "spl_set_id": [
+          "2f8437c6-9cea-28c3-e063-6394a90aa1c8"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "ZXE7LB03WC"
+        ]
+      },
+      "marketing_category": "UNAPPROVED HOMEOPATHIC",
+      "dosage_form": "TABLET, SOLUBLE",
+      "spl_id": "2f8437c6-9ceb-28c3-e063-6394a90aa1c8",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20150101",
+      "product_id": "82969-5017_2f8437c6-9ceb-28c3-e063-6394a90aa1c8",
+      "brand_name_base": "Bestmade Natural Products Arundo Maur"
+    },
+    {
+      "product_ndc": "82983-430",
+      "generic_name": "glatiramer acetate",
+      "labeler_name": "AJENAT PHARMACEUTICALS LLC",
+      "brand_name": "Glatiramer Acetate",
+      "active_ingredients": [
+        {
+          "name": "GLATIRAMER ACETATE",
+          "strength": "40 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "82983-430-12",
+          "description": "12 BLISTER PACK in 1 CARTON (82983-430-12)  / 1 SYRINGE in 1 BLISTER PACK (82983-430-01)  / 1 mL in 1 SYRINGE",
+          "marketing_start_date": "20260320",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "AJENAT PHARMACEUTICALS LLC"
+        ],
+        "rxcui": [
+          "1487361"
+        ],
+        "spl_set_id": [
+          "1ec10223-880d-402f-a759-9cd179bf09de"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0382983430129",
+          "0382983430013"
+        ],
+        "unii": [
+          "5M691HL4BO"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "INJECTION, SOLUTION",
+      "spl_id": "596fb2ff-60b9-46f0-b5c7-00e3108e8f28",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "SUBCUTANEOUS"
+      ],
+      "marketing_start_date": "20260320",
+      "product_id": "82983-430_596fb2ff-60b9-46f0-b5c7-00e3108e8f28",
+      "application_number": "ANDA214022",
+      "brand_name_base": "Glatiramer Acetate"
+    },
+    {
+      "product_ndc": "82868-013",
+      "generic_name": "Baclofen",
+      "labeler_name": "Northwind Health Company, LLC",
+      "brand_name": "Baclofen",
+      "active_ingredients": [
+        {
+          "name": "BACLOFEN",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "82868-013-30",
+          "description": "30 TABLET in 1 BOTTLE, PLASTIC (82868-013-30)",
+          "marketing_start_date": "20231114",
+          "sample": false
+        },
+        {
+          "package_ndc": "82868-013-60",
+          "description": "60 TABLET in 1 BOTTLE, PLASTIC (82868-013-60)",
+          "marketing_start_date": "20230927",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Northwind Health Company, LLC"
+        ],
+        "rxcui": [
+          "197391"
+        ],
+        "spl_set_id": [
+          "06bcfb08-2ada-f803-e063-6394a90a826b"
+        ],
+        "nui": [
+          "N0000000196",
+          "N0000000116",
+          "N0000175759"
+        ],
+        "pharm_class_moa": [
+          "GABA A Agonists [MoA]",
+          "GABA B Agonists [MoA]"
+        ],
+        "pharm_class_epc": [
+          "gamma-Aminobutyric Acid-ergic Agonist [EPC]"
+        ],
+        "unii": [
+          "H789N3FKE8"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "46dc934b-8b1e-a00e-e063-6394a90a5d4e",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20230927",
+      "product_id": "82868-013_46dc934b-8b1e-a00e-e063-6394a90a5d4e",
+      "application_number": "ANDA072234",
+      "brand_name_base": "Baclofen",
+      "pharm_class": [
+        "GABA A Agonists [MoA]",
+        "GABA B Agonists [MoA]",
+        "gamma-Aminobutyric Acid-ergic Agonist [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "82953-030",
+      "generic_name": "Avobenzone,Homosalate,Octocrylene,Octisalate",
+      "labeler_name": "Cosmuses Cosmetics (Ningbo) Co., Ltd.",
+      "brand_name": "natural lip balm SPF15( blueberry) 01",
+      "brand_name_suffix": "01",
+      "active_ingredients": [
+        {
+          "name": "OCTOCRYLENE",
+          "strength": "3 g/100g"
+        },
+        {
+          "name": "HOMOSALATE",
+          "strength": "5 g/100g"
+        },
+        {
+          "name": "AVOBENZONE",
+          "strength": "2 g/100g"
+        },
+        {
+          "name": "OCTISALATE",
+          "strength": "3 g/100g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "82953-030-01",
+          "description": "4.5 g in 1 CYLINDER (82953-030-01)",
+          "marketing_start_date": "20250327",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Cosmuses Cosmetics (Ningbo) Co., Ltd."
+        ],
+        "spl_set_id": [
+          "314f8990-4b33-e2b1-e063-6394a90a4d79"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "5A68WGF6WM",
+          "V06SV4M95S",
+          "G63QQF2NOX",
+          "4X49Y0596W"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "LIPSTICK",
+      "spl_id": "314f880a-546f-f5aa-e063-6394a90a52f6",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20250327",
+      "product_id": "82953-030_314f880a-546f-f5aa-e063-6394a90a52f6",
+      "application_number": "M020",
+      "brand_name_base": "natural lip balm SPF15( blueberry)"
+    },
+    {
+      "product_ndc": "83027-0061",
+      "generic_name": "Candida Albicans",
+      "labeler_name": "Nutritional Specialties, Inc.",
+      "brand_name": "Mycocan Combo",
+      "active_ingredients": [
+        {
+          "name": "CANDIDA ALBICANS",
+          "strength": "12 [hp_X]/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "83027-0061-1",
+          "description": "60 mL in 1 BOTTLE, SPRAY (83027-0061-1)",
+          "marketing_start_date": "20230424",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Nutritional Specialties, Inc."
+        ],
+        "spl_set_id": [
+          "45f22b37-4792-4d6d-a1b3-145b395eb448"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0649818081377"
+        ],
+        "nui": [
+          "N0000185372",
+          "N0000175629",
+          "N0000184306",
+          "N0000185001",
+          "M0008890",
+          "M0000728"
+        ],
+        "pharm_class_epc": [
+          "Non-Standardized Fungal Allergenic Extract [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Increased Histamine Release [PE]",
+          "Cell-mediated Immunity [PE]",
+          "Increased IgG Production [PE]"
+        ],
+        "pharm_class_cs": [
+          "Fungal Proteins [CS]",
+          "Allergens [CS]"
+        ],
+        "unii": [
+          "4D7G21HDBC"
+        ]
+      },
+      "marketing_category": "UNAPPROVED HOMEOPATHIC",
+      "dosage_form": "SPRAY",
+      "spl_id": "13724a4a-eee4-4847-a1ad-f73faf1ebc98",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20230424",
+      "product_id": "83027-0061_13724a4a-eee4-4847-a1ad-f73faf1ebc98",
+      "brand_name_base": "Mycocan Combo",
+      "pharm_class": [
+        "Allergens [CS]",
+        "Cell-mediated Immunity [PE]",
+        "Fungal Proteins [CS]",
+        "Increased Histamine Release [PE]",
+        "Increased IgG Production [PE]",
+        "Non-Standardized Fungal Allergenic Extract [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "0703-0018",
+      "generic_name": "HYDROMORPHONE HYDROCHLORIDE",
+      "labeler_name": "Teva Parenteral Medicines, Inc.",
+      "dea_schedule": "CII",
+      "brand_name": "Hydromorphone Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "HYDROMORPHONE HYDROCHLORIDE",
+          "strength": "10 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0703-0018-01",
+          "description": "1 VIAL in 1 CARTON (0703-0018-01)  / 50 mL in 1 VIAL",
+          "marketing_start_date": "20110118",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Teva Parenteral Medicines, Inc."
+        ],
+        "rxcui": [
+          "1724338",
+          "1724340",
+          "1724341"
+        ],
+        "spl_set_id": [
+          "f0b78db9-a38c-41bb-8233-5e93f7f18c5c"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0307030110038"
+        ],
+        "unii": [
+          "L960UP2KRW"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "INJECTION, SOLUTION",
+      "spl_id": "540b835a-db66-417c-8507-0c1ed05c95bf",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS",
+        "SUBCUTANEOUS"
+      ],
+      "marketing_start_date": "20110118",
+      "product_id": "0703-0018_540b835a-db66-417c-8507-0c1ed05c95bf",
+      "application_number": "ANDA078591",
+      "brand_name_base": "Hydromorphone Hydrochloride",
+      "pharm_class": [
+        "Full Opioid Agonists [MoA]",
+        "Opioid Agonist [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "0703-4244",
+      "generic_name": "Carboplatin",
+      "labeler_name": "Teva Parenteral Medicines, Inc.",
+      "brand_name": "Carboplatin",
+      "active_ingredients": [
+        {
+          "name": "CARBOPLATIN",
+          "strength": "10 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0703-4244-81",
+          "description": "1 VIAL, MULTI-DOSE in 1 CARTON (0703-4244-81)  / 5 mL in 1 VIAL, MULTI-DOSE",
+          "marketing_start_date": "20160115",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Teva Parenteral Medicines, Inc."
+        ],
+        "rxcui": [
+          "597195"
+        ],
+        "spl_set_id": [
+          "e176b6ef-2ff6-498b-a9d8-7a634d147f37"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0307034244814",
+          "0307034246818",
+          "0307034248812",
+          "0307034239810"
+        ],
+        "nui": [
+          "N0000175413",
+          "N0000175073"
+        ],
+        "pharm_class_epc": [
+          "Platinum-based Drug [EPC]"
+        ],
+        "unii": [
+          "BG3F62OND5"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "INJECTION, SOLUTION",
+      "spl_id": "b943761e-6a46-45a0-bdb4-1fec1e101f8c",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "INTRAVENOUS"
+      ],
+      "marketing_start_date": "20160115",
+      "product_id": "0703-4244_b943761e-6a46-45a0-bdb4-1fec1e101f8c",
+      "application_number": "ANDA077269",
+      "brand_name_base": "Carboplatin",
+      "pharm_class": [
+        "Platinum-based Drug [EPC]",
+        "Platinum-containing Compounds [EXT]"
+      ]
+    },
+    {
+      "product_ndc": "0713-0228",
+      "generic_name": "Triamcinolone Acetonide",
+      "labeler_name": "Cosette Pharmaceuticals, Inc.",
+      "brand_name": "Triamcinolone Acetonide",
+      "active_ingredients": [
+        {
+          "name": "TRIAMCINOLONE ACETONIDE",
+          "strength": "1 mg/g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0713-0228-15",
+          "description": "1 TUBE in 1 CARTON (0713-0228-15)  / 15 g in 1 TUBE",
+          "marketing_start_date": "20150910",
+          "sample": false
+        },
+        {
+          "package_ndc": "0713-0228-31",
+          "description": "1 TUBE in 1 CARTON (0713-0228-31)  / 30 g in 1 TUBE",
+          "marketing_start_date": "20241206",
+          "sample": false
+        },
+        {
+          "package_ndc": "0713-0228-80",
+          "description": "1 TUBE in 1 CARTON (0713-0228-80)  / 80 g in 1 TUBE",
+          "marketing_start_date": "20150910",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Cosette Pharmaceuticals, Inc."
+        ],
+        "rxcui": [
+          "1085633",
+          "1085636"
+        ],
+        "spl_set_id": [
+          "5397395a-2d13-9311-7cb2-c316339d4acc"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175576",
+          "N0000175450"
+        ],
+        "pharm_class_epc": [
+          "Corticosteroid [EPC]"
+        ],
+        "pharm_class_moa": [
+          "Corticosteroid Hormone Receptor Agonists [MoA]"
+        ],
+        "unii": [
+          "F446C597KA"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "OINTMENT",
+      "spl_id": "2874a9b6-bcdd-0f7c-e063-6394a90ace1b",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20150910",
+      "product_id": "0713-0228_2874a9b6-bcdd-0f7c-e063-6394a90ace1b",
+      "application_number": "ANDA089796",
+      "brand_name_base": "Triamcinolone Acetonide",
+      "pharm_class": [
+        "Corticosteroid Hormone Receptor Agonists [MoA]",
+        "Corticosteroid [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "83324-308",
+      "generic_name": "Menthol",
+      "labeler_name": "Chain Drug Marketing Association, Inc.",
+      "brand_name": "QUALITY CHOICE Cough Drops Vanilla Honey",
+      "active_ingredients": [
+        {
+          "name": "MENTHOL, UNSPECIFIED FORM",
+          "strength": "2.5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "83324-308-30",
+          "description": "30 LOZENGE in 1 BAG (83324-308-30)",
+          "marketing_start_date": "20240614",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Chain Drug Marketing Association, Inc."
+        ],
+        "rxcui": [
+          "616344"
+        ],
+        "spl_set_id": [
+          "3d6a4bcc-1044-40f5-928a-378ececcb687"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "L7T10EIP3A"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "LOZENGE",
+      "spl_id": "463f565d-0b59-7dcc-e063-6394a90afa23",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20240614",
+      "product_id": "83324-308_463f565d-0b59-7dcc-e063-6394a90afa23",
+      "application_number": "M012",
+      "brand_name_base": "QUALITY CHOICE Cough Drops Vanilla Honey"
+    },
+    {
+      "product_ndc": "83566-142",
+      "generic_name": "LIDOCAINE",
+      "labeler_name": "Guangdong Aimu Biological Technology Co., Ltd",
+      "brand_name": "Hilook Numbing Cream",
+      "active_ingredients": [
+        {
+          "name": "TETRACAINE",
+          "strength": "1 g/100mL"
+        },
+        {
+          "name": "PRILOCAINE",
+          "strength": "1 g/100mL"
+        },
+        {
+          "name": "LIDOCAINE",
+          "strength": "5 g/100mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "83566-142-01",
+          "description": "30 mL in 1 BOTTLE (83566-142-01)",
+          "marketing_start_date": "20240624",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Guangdong Aimu Biological Technology Co., Ltd"
+        ],
+        "spl_set_id": [
+          "1b9f1a4c-ca0b-d820-e063-6394a90a3239"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175683",
+          "M0007766",
+          "N0000175976",
+          "N0000175682",
+          "M0000897",
+          "N0000175426"
+        ],
+        "pharm_class_epc": [
+          "Ester Local Anesthetic [EPC]",
+          "Amide Local Anesthetic [EPC]",
+          "Antiarrhythmic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Esters [CS]",
+          "Amides [CS]"
+        ],
+        "pharm_class_pe": [
+          "Local Anesthesia [PE]"
+        ],
+        "unii": [
+          "0619F35CGV",
+          "046O35D44R",
+          "98PI200987"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "CREAM",
+      "spl_id": "3871e43b-1f15-bf7f-e063-6294a90a6150",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20240624",
+      "product_id": "83566-142_3871e43b-1f15-bf7f-e063-6294a90a6150",
+      "application_number": "M017",
+      "brand_name_base": "Hilook Numbing Cream",
+      "pharm_class": [
+        "Amide Local Anesthetic [EPC]",
+        "Amide Local Anesthetic [EPC]",
+        "Amides [CS]",
+        "Amides [CS]",
+        "Antiarrhythmic [EPC]",
+        "Ester Local Anesthetic [EPC]",
+        "Esters [CS]",
+        "Local Anesthesia [PE]",
+        "Local Anesthesia [PE]",
+        "Local Anesthesia [PE]"
+      ]
+    },
+    {
+      "product_ndc": "83677-610",
+      "generic_name": "Zinc Oxide",
+      "labeler_name": "Eclectic Solutions LLC",
+      "brand_name": "Hale and Hush Broad Spectrum SPF 30 SPF 30",
+      "brand_name_suffix": "SPF 30",
+      "active_ingredients": [
+        {
+          "name": "ZINC OXIDE",
+          "strength": "13.5 g/100g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "83677-610-58",
+          "description": "55 g in 1 BOTTLE, DISPENSING (83677-610-58)",
+          "marketing_start_date": "20180402",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Eclectic Solutions LLC"
+        ],
+        "spl_set_id": [
+          "0530904f-b02c-d8cf-e063-6294a90aa5a7"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "SOI2LOH54Z"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "CREAM",
+      "spl_id": "4839683f-5b57-ca9b-e063-6294a90a7f5f",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20180402",
+      "product_id": "83677-610_4839683f-5b57-ca9b-e063-6294a90a7f5f",
+      "application_number": "M020",
+      "brand_name_base": "Hale and Hush Broad Spectrum SPF 30"
+    },
+    {
+      "product_ndc": "83781-014",
+      "generic_name": "Lidocaine Gel-Patch",
+      "labeler_name": "Zhengzhou Miaoqi Medical Technology Co., Ltd.",
+      "brand_name": "MQUPIN Lidocaine Gel-Patch",
+      "active_ingredients": [
+        {
+          "name": "MENTHOL",
+          "strength": "3 g/1001"
+        },
+        {
+          "name": "LIDOCAINE",
+          "strength": "4 g/1001"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "83781-014-01",
+          "description": "10 PATCH in 1 BOX (83781-014-01)",
+          "marketing_start_date": "20260128",
+          "sample": false
+        },
+        {
+          "package_ndc": "83781-014-02",
+          "description": "12 PATCH in 1 BOX (83781-014-02)",
+          "marketing_start_date": "20260128",
+          "sample": false
+        },
+        {
+          "package_ndc": "83781-014-03",
+          "description": "15 PATCH in 1 BOX (83781-014-03)",
+          "marketing_start_date": "20260128",
+          "sample": false
+        },
+        {
+          "package_ndc": "83781-014-04",
+          "description": "16 PATCH in 1 BOX (83781-014-04)",
+          "marketing_start_date": "20260128",
+          "sample": false
+        },
+        {
+          "package_ndc": "83781-014-05",
+          "description": "36 PATCH in 1 BOX (83781-014-05)",
+          "marketing_start_date": "20260128",
+          "sample": false
+        },
+        {
+          "package_ndc": "83781-014-06",
+          "description": "50 PATCH in 1 BOX (83781-014-06)",
+          "marketing_start_date": "20260128",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Zhengzhou Miaoqi Medical Technology Co., Ltd."
+        ],
+        "rxcui": [
+          "1649008"
+        ],
+        "spl_set_id": [
+          "49703717-69a6-e480-e063-6394a90ac69c"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "6979297400777"
+        ],
+        "nui": [
+          "N0000175682",
+          "M0000897",
+          "N0000175426",
+          "N0000175976"
+        ],
+        "pharm_class_epc": [
+          "Amide Local Anesthetic [EPC]",
+          "Antiarrhythmic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Amides [CS]"
+        ],
+        "pharm_class_pe": [
+          "Local Anesthesia [PE]"
+        ],
+        "unii": [
+          "L7T10EIP3A",
+          "98PI200987"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "PATCH",
+      "spl_id": "49703717-69a7-e480-e063-6394a90ac69c",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20260128",
+      "product_id": "83781-014_49703717-69a7-e480-e063-6394a90ac69c",
+      "application_number": "M017",
+      "brand_name_base": "MQUPIN Lidocaine Gel-Patch",
+      "pharm_class": [
+        "Amide Local Anesthetic [EPC]",
+        "Amides [CS]",
+        "Antiarrhythmic [EPC]",
+        "Local Anesthesia [PE]"
+      ]
+    },
+    {
+      "product_ndc": "83939-0022",
+      "generic_name": "Oxybutynin Chloride",
+      "labeler_name": "VERITYRX, LLC",
+      "brand_name": "Oxybutynin Chloride",
+      "active_ingredients": [
+        {
+          "name": "OXYBUTYNIN CHLORIDE",
+          "strength": "5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "83939-0022-1",
+          "description": "1 TABLET in 1 POUCH (83939-0022-1)",
+          "marketing_start_date": "20251103",
+          "sample": false
+        },
+        {
+          "package_ndc": "83939-0022-2",
+          "description": "50 POUCH in 1 BOX, UNIT-DOSE (83939-0022-2)  / 1 TABLET in 1 POUCH",
+          "marketing_start_date": "20251103",
+          "sample": false
+        },
+        {
+          "package_ndc": "83939-0022-3",
+          "description": "100 POUCH in 1 BOX, UNIT-DOSE (83939-0022-3)  / 1 TABLET in 1 POUCH",
+          "marketing_start_date": "20251103",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "VERITYRX, LLC"
+        ],
+        "rxcui": [
+          "863664"
+        ],
+        "spl_set_id": [
+          "427b6ffb-3ff4-932f-e063-6394a90ae8b9"
+        ],
+        "unii": [
+          "L9F3D9RENQ"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "427b8d8e-0187-6ba0-e063-6294a90ac52b",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20171115",
+      "product_id": "83939-0022_427b8d8e-0187-6ba0-e063-6294a90ac52b",
+      "application_number": "ANDA209823",
+      "brand_name_base": "Oxybutynin Chloride",
+      "pharm_class": [
+        "Cholinergic Muscarinic Antagonist [EPC]",
+        "Cholinergic Muscarinic Antagonists [MoA]"
+      ]
+    },
+    {
+      "product_ndc": "84066-108",
+      "generic_name": "CAPSAICIN",
+      "labeler_name": "Guangzhou Tata Biotechnology Co., Ltd.",
+      "brand_name": "NeroCare Capsaicin Neuropathy Relief Cream",
+      "active_ingredients": [
+        {
+          "name": "CAPSAICIN",
+          "strength": ".1 g/100g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "84066-108-01",
+          "description": "100 g in 1 TUBE (84066-108-01)",
+          "marketing_start_date": "20260403",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Guangzhou Tata Biotechnology Co., Ltd."
+        ],
+        "rxcui": [
+          "646333"
+        ],
+        "spl_set_id": [
+          "4e89b7eb-0d84-dc57-e063-6394a90a7dd9"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "6941750064499"
+        ],
+        "unii": [
+          "S07O44R1ZM"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "CREAM",
+      "spl_id": "4e89b7eb-0d85-dc57-e063-6394a90a7dd9",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20260403",
+      "product_id": "84066-108_4e89b7eb-0d85-dc57-e063-6394a90a7dd9",
+      "application_number": "M017",
+      "brand_name_base": "NeroCare Capsaicin Neuropathy Relief Cream"
+    },
+    {
+      "product_ndc": "84126-220",
+      "generic_name": "Colloidal Oatmeal",
+      "labeler_name": "The Procter & Gamble Manufacturing Company",
+      "brand_name": "First Aid Beauty Dry Skin Rescue Kit",
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "84126-220-01",
+          "description": "1 KIT in 1 CARTON (84126-220-01)  *  28 DISC in 1 JAR *  56.7 g in 1 TUBE (84126-203-56)  *  56.7 g in 1 TUBE",
+          "marketing_start_date": "20251130",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "The Procter & Gamble Manufacturing Company"
+        ],
+        "rxcui": [
+          "1654149"
+        ],
+        "spl_set_id": [
+          "4a93d029-d721-0bb5-e063-6294a90a17c4"
+        ],
+        "is_original_packager": [
+          true
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "KIT",
+      "spl_id": "4a93d013-903c-4e9a-e063-6394a90a9637",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20251130",
+      "product_id": "84126-220_4a93d013-903c-4e9a-e063-6394a90a9637",
+      "application_number": "M016",
+      "brand_name_base": "First Aid Beauty Dry Skin Rescue Kit"
+    },
+    {
+      "product_ndc": "84128-009",
+      "generic_name": "Povidone-Iodine, Isopropyl Alcohol",
+      "labeler_name": "XINXIANG XINDA TECHNOLOGY CO.,LTD",
+      "brand_name": "Swab Applicator Brushes 8.3% w/w Povidone-Iodine and 72.5% w/w Isopropyl Alcohol (IPA)",
+      "active_ingredients": [
+        {
+          "name": "POVIDONE-IODINE",
+          "strength": "83 mg/mL"
+        },
+        {
+          "name": "ISOPROPYL ALCOHOL",
+          "strength": "725 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "84128-009-03",
+          "description": "20 BAG in 1 BOX (84128-009-03)  / 1 APPLICATOR in 1 BAG / 3 mL in 1 APPLICATOR",
+          "marketing_start_date": "20260513",
+          "sample": false
+        },
+        {
+          "package_ndc": "84128-009-06",
+          "description": "20 BAG in 1 BOX (84128-009-06)  / 1 APPLICATOR in 1 BAG / 6 mL in 1 APPLICATOR",
+          "marketing_start_date": "20260513",
+          "sample": false
+        },
+        {
+          "package_ndc": "84128-009-10",
+          "description": "10 BAG in 1 BOX (84128-009-10)  / 1 APPLICATOR in 1 BAG / 10.5 mL in 1 APPLICATOR",
+          "marketing_start_date": "20260513",
+          "sample": false
+        },
+        {
+          "package_ndc": "84128-009-26",
+          "description": "10 BAG in 1 BOX (84128-009-26)  / 1 APPLICATOR in 1 BAG / 26 mL in 1 APPLICATOR",
+          "marketing_start_date": "20260513",
+          "sample": false
+        },
+        {
+          "package_ndc": "84128-009-30",
+          "description": "10 BAG in 1 BOX (84128-009-30)  / 1 APPLICATOR in 1 BAG / 30 mL in 1 APPLICATOR",
+          "marketing_start_date": "20260513",
+          "sample": false
+        },
+        {
+          "package_ndc": "84128-009-35",
+          "description": "10 BAG in 1 BOX (84128-009-35)  / 1 APPLICATOR in 1 BAG / 35 mL in 1 APPLICATOR",
+          "marketing_start_date": "20260513",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "XINXIANG XINDA TECHNOLOGY CO.,LTD"
+        ],
+        "spl_set_id": [
+          "529b8ad6-081e-0ef8-e063-6294a90a67df"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "6977191590402",
+          "6977191590396",
+          "6977191590372",
+          "6977191590358",
+          "6977191590389",
+          "6977191590365"
+        ],
+        "nui": [
+          "N0000175486",
+          "M0011640"
+        ],
+        "pharm_class_epc": [
+          "Antiseptic [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Iodine [CS]"
+        ],
+        "unii": [
+          "85H0HZU99M",
+          "ND2M416302"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "SWAB",
+      "spl_id": "529b8aca-4b37-a642-e063-6394a90a2cb0",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20260513",
+      "product_id": "84128-009_529b8aca-4b37-a642-e063-6394a90a2cb0",
+      "application_number": "M003",
+      "brand_name_base": "Swab Applicator Brushes 8.3% w/w Povidone-Iodine and 72.5% w/w Isopropyl Alcohol (IPA)"
+    },
+    {
+      "product_ndc": "84415-044",
+      "generic_name": "Topical Anesthetic",
+      "labeler_name": "Everpharm LLC",
+      "brand_name": "Benzocaine",
+      "active_ingredients": [
+        {
+          "name": "BENZOCAINE",
+          "strength": "200 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "84415-044-01",
+          "description": "25 POUCH in 1 PACKAGE (84415-044-01)  / 1 APPLICATOR in 1 POUCH / .5 mL in 1 APPLICATOR",
+          "marketing_start_date": "20250115",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Everpharm LLC"
+        ],
+        "rxcui": [
+          "360348"
+        ],
+        "spl_set_id": [
+          "2bc57111-0f15-b237-e063-6294a90a4471"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0384415044010"
+        ],
+        "nui": [
+          "N0000185508",
+          "N0000175629",
+          "N0000184306",
+          "M0000728"
+        ],
+        "pharm_class_epc": [
+          "Standardized Chemical Allergen [EPC]"
+        ],
+        "pharm_class_pe": [
+          "Increased Histamine Release [PE]",
+          "Cell-mediated Immunity [PE]"
+        ],
+        "pharm_class_cs": [
+          "Allergens [CS]"
+        ],
+        "unii": [
+          "U3RSY48JW5"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "SPRAY",
+      "spl_id": "2bc582da-83f3-1644-e063-6294a90a8968",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "DENTAL",
+        "PERIODONTAL"
+      ],
+      "marketing_start_date": "20250115",
+      "product_id": "84415-044_2bc582da-83f3-1644-e063-6294a90a8968",
+      "application_number": "M022",
+      "brand_name_base": "Benzocaine",
+      "pharm_class": [
+        "Allergens [CS]",
+        "Cell-mediated Immunity [PE]",
+        "Increased Histamine Release [PE]",
+        "Standardized Chemical Allergen [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "84549-047",
+      "generic_name": "methylprednisolone sodium succinate",
+      "labeler_name": "ProPharma Distribution",
+      "brand_name": "SOLU-MEDROL",
+      "active_ingredients": [
+        {
+          "name": "METHYLPREDNISOLONE SODIUM SUCCINATE",
+          "strength": "125 mg/2mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "84549-047-22",
+          "description": "2 mL in 1 VIAL (84549-047-22)",
+          "marketing_start_date": "20250827",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "ProPharma Distribution"
+        ],
+        "rxcui": [
+          "1743704",
+          "1743707"
+        ],
+        "spl_set_id": [
+          "38698075-ac58-b5a4-e063-6294a90a7848"
+        ],
+        "unii": [
+          "LEC9GKY20K"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "INJECTION, POWDER, FOR SOLUTION",
+      "spl_id": "3a38d1c4-e75d-f6e9-e063-6394a90a888b",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "INTRAMUSCULAR",
+        "INTRAVENOUS"
+      ],
+      "marketing_start_date": "19590402",
+      "product_id": "84549-047_3a38d1c4-e75d-f6e9-e063-6394a90a888b",
+      "application_number": "NDA011856",
+      "brand_name_base": "SOLU-MEDROL",
+      "pharm_class": [
+        "Corticosteroid Hormone Receptor Agonists [MoA]",
+        "Corticosteroid [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "84662-060",
+      "generic_name": "Zinc Oxide, Homosalate, Octocrylene",
+      "labeler_name": "ADMTMAX LLC",
+      "brand_name": "dAlba Vegan Fresh Sun Cushion",
+      "active_ingredients": [
+        {
+          "name": "ZINC OXIDE",
+          "strength": "11.58 mg/25g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "84662-060-05",
+          "description": "25 g in 1 PACKAGE (84662-060-05)",
+          "marketing_start_date": "20240827",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "ADMTMAX LLC"
+        ],
+        "spl_set_id": [
+          "20afcbab-a2f4-7965-e063-6294a90a83d1"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "SOI2LOH54Z"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "SPONGE",
+      "spl_id": "37159649-4a9f-9bd7-e063-6294a90a223d",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20240827",
+      "product_id": "84662-060_37159649-4a9f-9bd7-e063-6294a90a223d",
+      "application_number": "M020",
+      "brand_name_base": "dAlba Vegan Fresh Sun Cushion"
+    },
+    {
+      "product_ndc": "84239-000",
+      "generic_name": "CETYLPYRIDINIUM CHLORIDE",
+      "labeler_name": "Vasu Healthcare Pvt. Ltd.",
+      "brand_name": "Equate Healthy Gums Clean Mint Breath Oral Rinse",
+      "active_ingredients": [
+        {
+          "name": "CETYLPYRIDINIUM CHLORIDE",
+          "strength": ".5 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "84239-000-00",
+          "description": "475 mL in 1 BOTTLE (84239-000-00)",
+          "marketing_start_date": "20250125",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Vasu Healthcare Pvt. Ltd."
+        ],
+        "rxcui": [
+          "1251617"
+        ],
+        "spl_set_id": [
+          "05fc922a-73fc-4826-be77-538da08282b9"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "D9OM4SK49P"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "LIQUID",
+      "spl_id": "2901a1df-7cd4-7cf2-e063-6394a90a8c91",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20250125",
+      "product_id": "84239-000_2901a1df-7cd4-7cf2-e063-6394a90a8c91",
+      "application_number": "505G(a)(3)",
+      "brand_name_base": "Equate Healthy Gums Clean Mint Breath Oral Rinse"
+    },
+    {
+      "product_ndc": "84826-002",
+      "generic_name": "omidenepag isopropyl",
+      "labeler_name": "Ocuvex Therapeutics, Inc.",
+      "brand_name": "Omlonti",
+      "active_ingredients": [
+        {
+          "name": "OMIDENEPAG ISOPROPYL",
+          "strength": ".02 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "84826-002-01",
+          "description": "1 BOTTLE, PLASTIC in 1 CARTON (84826-002-01)  / 2.5 mL in 1 BOTTLE, PLASTIC",
+          "marketing_start_date": "20250428",
+          "sample": false
+        },
+        {
+          "package_ndc": "84826-002-03",
+          "description": "3 BOTTLE, PLASTIC in 1 CARTON (84826-002-03)  / 2.5 mL in 1 BOTTLE, PLASTIC",
+          "marketing_start_date": "20250428",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Ocuvex Therapeutics, Inc."
+        ],
+        "rxcui": [
+          "2612702",
+          "2612704"
+        ],
+        "spl_set_id": [
+          "4258e437-7e92-4b09-baf1-01cb158cfc05"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "G0G0H52U6K"
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "SOLUTION/ DROPS",
+      "spl_id": "33504c5f-664b-4f6b-e063-6294a90a2aea",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "OPHTHALMIC"
+      ],
+      "marketing_start_date": "20220923",
+      "product_id": "84826-002_33504c5f-664b-4f6b-e063-6294a90a2aea",
+      "application_number": "NDA215092",
+      "brand_name_base": "Omlonti",
+      "pharm_class": [
+        "Prostaglandin E2 Receptor Agonist [EPC]",
+        "Prostaglandin E2 Receptor Agonists [MoA]"
+      ]
+    },
+    {
+      "product_ndc": "85034-115",
+      "generic_name": "avobenzone, octinoxate, octisalate, octocrylene",
+      "labeler_name": "Earth's Daughter",
+      "brand_name": "Earths Daughter Bing Cherry SPF 15 Broad Spectrum Sunscreen Lip Balm",
+      "active_ingredients": [
+        {
+          "name": "OCTINOXATE",
+          "strength": "7.5 g/100g"
+        },
+        {
+          "name": "AVOBENZONE",
+          "strength": "3 g/100g"
+        },
+        {
+          "name": "OCTOCRYLENE",
+          "strength": "5 g/100g"
+        },
+        {
+          "name": "OCTISALATE",
+          "strength": "5 g/100g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "85034-115-01",
+          "description": "4.25 g in 1 TUBE (85034-115-01)",
+          "marketing_start_date": "20220731",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Earth's Daughter"
+        ],
+        "spl_set_id": [
+          "2ad07286-f8af-7a9f-e063-6394a90a6a24"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "4Y5P7MUD51",
+          "G63QQF2NOX",
+          "5A68WGF6WM",
+          "4X49Y0596W"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "STICK",
+      "spl_id": "2ad0589f-a80e-8740-e063-6294a90adb43",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20220731",
+      "product_id": "85034-115_2ad0589f-a80e-8740-e063-6294a90adb43",
+      "application_number": "M020",
+      "brand_name_base": "Earths Daughter Bing Cherry SPF 15 Broad Spectrum Sunscreen Lip Balm"
+    },
+    {
+      "product_ndc": "85161-342",
+      "generic_name": "Salicylic Acid",
+      "labeler_name": "Longway Technology(Guangzhou) Co., Ltd",
+      "brand_name": "Quality Choice Psoriasis",
+      "active_ingredients": [
+        {
+          "name": "SALICYLIC ACID",
+          "strength": "3 g/100mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "85161-342-11",
+          "description": "1 BOTTLE in 1 CARTON (85161-342-11)  / 325 mL in 1 BOTTLE",
+          "marketing_start_date": "20251219",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Longway Technology(Guangzhou) Co., Ltd"
+        ],
+        "rxcui": [
+          "205023"
+        ],
+        "spl_set_id": [
+          "4651cabb-98ee-a257-e063-6294a90afd3b"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0635515100176"
+        ],
+        "unii": [
+          "O414PZ4LPZ"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "SHAMPOO",
+      "spl_id": "4651ca6a-1e33-ac25-e063-6294a90a02e2",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20240101",
+      "product_id": "85161-342_4651ca6a-1e33-ac25-e063-6294a90a02e2",
+      "application_number": "M032",
+      "brand_name_base": "Quality Choice Psoriasis"
+    },
+    {
+      "product_ndc": "85248-056",
+      "generic_name": "Tolnaftate 1% FUNGAL NAIL",
+      "labeler_name": "Jiangxi Yudexi Pharmaceutical Co., LTD",
+      "brand_name": "HEALMUSZ FUNGAL NAIL",
+      "active_ingredients": [
+        {
+          "name": "TOLNAFTATE",
+          "strength": "1 g/100g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "85248-056-01",
+          "description": "30 g in 1 TUBE (85248-056-01)",
+          "marketing_start_date": "20260206",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Jiangxi Yudexi Pharmaceutical Co., LTD"
+        ],
+        "rxcui": [
+          "199126"
+        ],
+        "spl_set_id": [
+          "4a2317d2-e45b-1fe2-e063-6394a90a940d"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "6979843980470"
+        ],
+        "unii": [
+          "06KB629TKV"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "OINTMENT",
+      "spl_id": "5441d141-0101-4c85-e063-6394a90a8b29",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20260206",
+      "product_id": "85248-056_5441d141-0101-4c85-e063-6394a90a8b29",
+      "application_number": "M005",
+      "brand_name_base": "HEALMUSZ FUNGAL NAIL"
+    },
+    {
+      "product_ndc": "85292-203",
+      "generic_name": "Titanium Dioxide, Zinc Oxide",
+      "labeler_name": "Acne Specialists LLC",
+      "brand_name": "Mineral SPF 40, Tinted",
+      "active_ingredients": [
+        {
+          "name": "ZINC OXIDE",
+          "strength": "38 mg/g"
+        },
+        {
+          "name": "TITANIUM DIOXIDE",
+          "strength": "80 mg/g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "85292-203-15",
+          "description": "1.5 g in 1 PACKET (85292-203-15)",
+          "marketing_start_date": "20221005",
+          "sample": true
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Acne Specialists LLC"
+        ],
+        "spl_set_id": [
+          "2fb19ed7-8cee-ce80-e063-6394a90ad3dc"
+        ],
+        "upc": [
+          "0385292203156"
+        ],
+        "unii": [
+          "SOI2LOH54Z",
+          "15FIX9V2JP"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "CREAM",
+      "spl_id": "457735e2-c1f0-090e-e063-6294a90a542d",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20221005",
+      "product_id": "85292-203_457735e2-c1f0-090e-e063-6294a90a542d",
+      "application_number": "M020",
+      "brand_name_base": "Mineral SPF 40, Tinted"
+    },
+    {
+      "product_ndc": "87494-005",
+      "generic_name": "Nicotine polacrilex",
+      "labeler_name": "Guangzhou Shuimu Jiahe Trading Co., Ltd.",
+      "brand_name": "Oneoo Nicotine Gum (Cinnmon)",
+      "active_ingredients": [
+        {
+          "name": "NICOTINE",
+          "strength": "4 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "87494-005-01",
+          "description": "60 GUM, CHEWING in 1 BOTTLE (87494-005-01)",
+          "marketing_start_date": "20260620",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Guangzhou Shuimu Jiahe Trading Co., Ltd."
+        ],
+        "rxcui": [
+          "311975"
+        ],
+        "spl_set_id": [
+          "54b1329b-b422-29a5-e063-6294a90a8780"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000175706",
+          "M0014836"
+        ],
+        "pharm_class_epc": [
+          "Cholinergic Nicotinic Agonist [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Nicotine [CS]"
+        ],
+        "unii": [
+          "6M3C89ZY6R"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "GUM, CHEWING",
+      "spl_id": "58639675-0733-9c14-e063-6394a90aed55",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20260620",
+      "product_id": "87494-005_58639675-0733-9c14-e063-6394a90aed55",
+      "application_number": "M012",
+      "brand_name_base": "Oneoo Nicotine Gum (Cinnmon)",
+      "pharm_class": [
+        "Cholinergic Nicotinic Agonist [EPC]",
+        "Nicotine [CS]"
+      ]
+    },
+    {
+      "product_ndc": "87673-960",
+      "generic_name": "ZINC OXIDE",
+      "labeler_name": "Stellar Beauty Co.",
+      "brand_name": "Stellar Mineral Glow Guard Sunscreen Broad Spectrum SPF 50",
+      "active_ingredients": [
+        {
+          "name": "ZINC OXIDE",
+          "strength": "175 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "87673-960-00",
+          "description": "1 BOTTLE in 1 BOX (87673-960-00)  / 100 mL in 1 BOTTLE",
+          "marketing_start_date": "20260422",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Stellar Beauty Co."
+        ],
+        "spl_set_id": [
+          "0f7ee8c6-3af2-42a2-b341-3e0da42c7c93"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0850080734025"
+        ],
+        "unii": [
+          "SOI2LOH54Z"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "CREAM",
+      "spl_id": "51885eec-f8e7-ed09-e063-6294a90a8f0d",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20260422",
+      "product_id": "87673-960_51885eec-f8e7-ed09-e063-6294a90a8f0d",
+      "application_number": "M020",
+      "brand_name_base": "Stellar Mineral Glow Guard Sunscreen Broad Spectrum SPF 50",
+      "pharm_class": [
+        "Copper Absorption Inhibitor [EPC]",
+        "Decreased Copper Ion Absorption [PE]"
+      ]
+    },
+    {
+      "product_ndc": "87843-314",
+      "generic_name": "Salicylic Acid 0.5%",
+      "labeler_name": "Global America Group LLC",
+      "brand_name": "INVISIBLE ACNE PATCHES",
+      "active_ingredients": [
+        {
+          "name": "SALICYLIC ACID",
+          "strength": ".5 g/100g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "87843-314-48",
+          "description": "48 PATCH in 1 PACKAGE (87843-314-48)  / .018 g in 1 PATCH",
+          "marketing_start_date": "20260831",
+          "sample": false
+        },
+        {
+          "package_ndc": "87843-314-96",
+          "description": "96 PATCH in 1 PACKAGE (87843-314-96)  / .018 g in 1 PATCH",
+          "marketing_start_date": "20260831",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Global America Group LLC"
+        ],
+        "spl_set_id": [
+          "1527e15f-472f-4e05-adb6-c2e561f503cf"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "O414PZ4LPZ"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "PATCH",
+      "spl_id": "1842253a-6c15-457b-a3fc-d2659ddfbf39",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20260831",
+      "product_id": "87843-314_1842253a-6c15-457b-a3fc-d2659ddfbf39",
+      "application_number": "M006",
+      "brand_name_base": "INVISIBLE ACNE PATCHES"
+    },
+    {
+      "product_ndc": "98132-206",
+      "generic_name": "Titanium Dioxide",
+      "labeler_name": "Orveon Global US LLC",
+      "brand_name": "bareMinerals BAREPRO Performance Wear Liquid Foundation Broad Spectrum SPF 20 Cashmere 06",
+      "brand_name_suffix": "Cashmere 06",
+      "active_ingredients": [
+        {
+          "name": "TITANIUM DIOXIDE",
+          "strength": "33.2 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "98132-206-03",
+          "description": "1 BOTTLE, GLASS in 1 CARTON (98132-206-03)  / 3 mL in 1 BOTTLE, GLASS",
+          "marketing_start_date": "20170801",
+          "sample": false
+        },
+        {
+          "package_ndc": "98132-206-30",
+          "description": "1 BOTTLE, GLASS in 1 CARTON (98132-206-30)  / 30 mL in 1 BOTTLE, GLASS",
+          "marketing_start_date": "20170801",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Orveon Global US LLC"
+        ],
+        "spl_set_id": [
+          "29738578-6681-476e-8660-7219f58e8fa0"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "15FIX9V2JP"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "LIQUID",
+      "spl_id": "0c6aa8f4-c51c-10bf-e063-6394a90a59e5",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20170801",
+      "product_id": "98132-206_0c6aa8f4-c51c-10bf-e063-6394a90a59e5",
+      "application_number": "M020",
+      "brand_name_base": "bareMinerals BAREPRO Performance Wear Liquid Foundation Broad Spectrum SPF 20"
+    },
+    {
+      "product_ndc": "85370-212",
+      "generic_name": "Titanium Dioxide, Zinc Oxide",
+      "labeler_name": "Lisa Nadler Skin Care and Waxing",
+      "brand_name": "tinted lip mineral sunscreen SPF45",
+      "active_ingredients": [
+        {
+          "name": "TITANIUM DIOXIDE",
+          "strength": "40 mg/g"
+        },
+        {
+          "name": "ZINC OXIDE",
+          "strength": "55 mg/g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "85370-212-45",
+          "description": "1 CYLINDER in 1 CARTON (85370-212-45)  / 4.5 g in 1 CYLINDER",
+          "marketing_start_date": "20190620",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Lisa Nadler Skin Care and Waxing"
+        ],
+        "spl_set_id": [
+          "364b023b-4a52-225a-e063-6394a90ad197"
+        ],
+        "unii": [
+          "15FIX9V2JP",
+          "SOI2LOH54Z"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "STICK",
+      "spl_id": "4627909f-cc74-d934-e063-6394a90ab522",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20190620",
+      "product_id": "85370-212_4627909f-cc74-d934-e063-6394a90ab522",
+      "application_number": "M020",
+      "brand_name_base": "tinted lip mineral sunscreen SPF45"
+    },
+    {
+      "product_ndc": "85434-003",
+      "generic_name": "Silver",
+      "labeler_name": "Guangdong Quaker Daily Chemical Co., LTD",
+      "brand_name": "antibacterial body wash",
+      "active_ingredients": [
+        {
+          "name": "SILVER",
+          "strength": ".000132 g/100mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "85434-003-01",
+          "description": "473 mL in 1 BOTTLE (85434-003-01)",
+          "marketing_start_date": "20250930",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Guangdong Quaker Daily Chemical Co., LTD"
+        ],
+        "spl_set_id": [
+          "3fff8d3e-1944-4813-e063-6294a90a1a1d"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0199284922440"
+        ],
+        "unii": [
+          "3M4G523W1G"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "LIQUID",
+      "spl_id": "3fff8d3e-1945-4813-e063-6294a90a1a1d",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20250930",
+      "product_id": "85434-003_3fff8d3e-1945-4813-e063-6294a90a1a1d",
+      "application_number": "M005",
+      "brand_name_base": "antibacterial body wash"
+    },
+    {
+      "product_ndc": "85509-1910",
+      "generic_name": "methocarbamol",
+      "labeler_name": "PHOENIX RX LLC",
+      "brand_name": "Methocarbamol",
+      "active_ingredients": [
+        {
+          "name": "METHOCARBAMOL",
+          "strength": "500 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "85509-1910-1",
+          "description": "100 TABLET in 1 BOTTLE (85509-1910-1)",
+          "marketing_start_date": "20250711",
+          "sample": false
+        },
+        {
+          "package_ndc": "85509-1910-3",
+          "description": "30 TABLET in 1 BOTTLE (85509-1910-3)",
+          "marketing_start_date": "20251111",
+          "sample": false
+        },
+        {
+          "package_ndc": "85509-1910-6",
+          "description": "60 TABLET in 1 BOTTLE (85509-1910-6)",
+          "marketing_start_date": "20250714",
+          "sample": false
+        },
+        {
+          "package_ndc": "85509-1910-9",
+          "description": "90 TABLET in 1 BOTTLE (85509-1910-9)",
+          "marketing_start_date": "20250714",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "PHOENIX RX LLC"
+        ],
+        "rxcui": [
+          "197943"
+        ],
+        "spl_set_id": [
+          "39bc9ecf-837e-5bb8-e063-6394a90a917e"
+        ],
+        "nui": [
+          "N0000175730",
+          "N0000175737"
+        ],
+        "pharm_class_pe": [
+          "Centrally-mediated Muscle Relaxation [PE]"
+        ],
+        "pharm_class_epc": [
+          "Muscle Relaxant [EPC]"
+        ],
+        "unii": [
+          "125OD7737X"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "437dd17b-db52-8080-e063-6394a90abb28",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20210101",
+      "product_id": "85509-1910_437dd17b-db52-8080-e063-6394a90abb28",
+      "application_number": "ANDA040489",
+      "brand_name_base": "Methocarbamol",
+      "pharm_class": [
+        "Centrally-mediated Muscle Relaxation [PE]",
+        "Muscle Relaxant [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "85569-017",
+      "generic_name": "25% Undecylenic Acid",
+      "labeler_name": "100 KARMA INC",
+      "brand_name": "Treatonic Antifungal Pen",
+      "active_ingredients": [
+        {
+          "name": "UNDECYLENIC ACID",
+          "strength": "2.25 g/9g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "85569-017-01",
+          "description": "3 BOTTLE, DROPPER in 1 CARTON (85569-017-01)  / 3 g in 1 BOTTLE, DROPPER",
+          "marketing_start_date": "20260618",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "100 KARMA INC"
+        ],
+        "rxcui": [
+          "1362039"
+        ],
+        "spl_set_id": [
+          "52d89172-e8a7-70c0-e063-6294a90a3563"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "K3D86KJ24N"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "GEL",
+      "spl_id": "55b69f19-20f6-4203-e063-6394a90a43b0",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20260618",
+      "product_id": "85569-017_55b69f19-20f6-4203-e063-6394a90a43b0",
+      "application_number": "M005",
+      "brand_name_base": "Treatonic Antifungal Pen"
+    },
+    {
+      "product_ndc": "85649-212",
+      "generic_name": "Titanium Dioxide, Zinc Oxide",
+      "labeler_name": "PATRICIA SOLIS MAKEUP ARTIST, LLC",
+      "brand_name": "Lip Balm",
+      "active_ingredients": [
+        {
+          "name": "ZINC OXIDE",
+          "strength": "55 mg/g"
+        },
+        {
+          "name": "TITANIUM DIOXIDE",
+          "strength": "40 mg/g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "85649-212-45",
+          "description": "1 CYLINDER in 1 CARTON (85649-212-45)  / 4.5 g in 1 CYLINDER",
+          "marketing_start_date": "20210603",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "PATRICIA SOLIS MAKEUP ARTIST, LLC"
+        ],
+        "spl_set_id": [
+          "369d63a9-b9a9-9530-e063-6394a90ac8ef"
+        ],
+        "upc": [
+          "0385649212459"
+        ],
+        "unii": [
+          "SOI2LOH54Z",
+          "15FIX9V2JP"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "STICK",
+      "spl_id": "46284e55-cb55-f3f4-e063-6394a90a201b",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20210603",
+      "product_id": "85649-212_46284e55-cb55-f3f4-e063-6394a90a201b",
+      "application_number": "M020",
+      "brand_name_base": "Lip Balm"
+    },
+    {
+      "product_ndc": "85766-094",
+      "generic_name": "Sumatriptan Succinate",
+      "labeler_name": "Sportpharm LLC",
+      "brand_name": "Sumatriptan",
+      "active_ingredients": [
+        {
+          "name": "SUMATRIPTAN SUCCINATE",
+          "strength": "50 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "85766-094-09",
+          "description": "1 BLISTER PACK in 1 CARTON (85766-094-09)  / 9 TABLET in 1 BLISTER PACK",
+          "marketing_start_date": "20251010",
+          "sample": false
+        },
+        {
+          "package_ndc": "85766-094-10",
+          "description": "10 TABLET in 1 BOTTLE (85766-094-10)",
+          "marketing_start_date": "20251010",
+          "sample": false
+        },
+        {
+          "package_ndc": "85766-094-20",
+          "description": "20 TABLET in 1 BOTTLE (85766-094-20)",
+          "marketing_start_date": "20251010",
+          "sample": false
+        },
+        {
+          "package_ndc": "85766-094-30",
+          "description": "30 TABLET in 1 BOTTLE (85766-094-30)",
+          "marketing_start_date": "20251010",
+          "sample": false
+        },
+        {
+          "package_ndc": "85766-094-36",
+          "description": "36 TABLET in 1 BOTTLE (85766-094-36)",
+          "marketing_start_date": "20251010",
+          "sample": false
+        },
+        {
+          "package_ndc": "85766-094-60",
+          "description": "60 TABLET in 1 BOTTLE (85766-094-60)",
+          "marketing_start_date": "20251010",
+          "sample": false
+        },
+        {
+          "package_ndc": "85766-094-90",
+          "description": "90 TABLET in 1 BOTTLE (85766-094-90)",
+          "marketing_start_date": "20251010",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Sportpharm LLC"
+        ],
+        "rxcui": [
+          "313160",
+          "313161",
+          "315223"
+        ],
+        "spl_set_id": [
+          "d071aef6-a5bd-4f68-ba6d-03004466897c"
+        ],
+        "unii": [
+          "J8BDZ68989"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "5031bc93-6ea4-e9d4-e063-6394a90a5afd",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20090817",
+      "product_id": "85766-094_5031bc93-6ea4-e9d4-e063-6394a90a5afd",
+      "application_number": "ANDA078327",
+      "brand_name_base": "Sumatriptan",
+      "pharm_class": [
+        "Serotonin 1b Receptor Agonists [MoA]",
+        "Serotonin 1d Receptor Agonists [MoA]",
+        "Serotonin-1b and Serotonin-1d Receptor Agonist [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "0904-5522",
+      "generic_name": "Doxazosin",
+      "labeler_name": "Major Pharmaceuticals",
+      "brand_name": "Doxazosin",
+      "active_ingredients": [
+        {
+          "name": "DOXAZOSIN MESYLATE",
+          "strength": "1 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0904-5522-61",
+          "description": "100 BLISTER PACK in 1 CARTON (0904-5522-61)  / 1 TABLET in 1 BLISTER PACK",
+          "marketing_start_date": "20110714",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Major Pharmaceuticals"
+        ],
+        "rxcui": [
+          "197625",
+          "197626",
+          "197627"
+        ],
+        "spl_set_id": [
+          "3354196f-bbcf-4bc5-94f6-e6e8e132acb1"
+        ],
+        "unii": [
+          "86P6PQK0MU"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "cf518081-e98c-4128-bfdc-e21cfee5d3dd",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20110714",
+      "product_id": "0904-5522_cf518081-e98c-4128-bfdc-e21cfee5d3dd",
+      "application_number": "ANDA075580",
+      "brand_name_base": "Doxazosin",
+      "pharm_class": [
+        "Adrenergic alpha-Antagonists [MoA]",
+        "alpha-Adrenergic Blocker [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "0904-5922",
+      "generic_name": "Digoxin",
+      "labeler_name": "Major Pharmaceuticals",
+      "brand_name": "Digoxin",
+      "active_ingredients": [
+        {
+          "name": "DIGOXIN",
+          "strength": "250 ug/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0904-5922-61",
+          "description": "100 BLISTER PACK in 1 CARTON (0904-5922-61)  / 1 TABLET in 1 BLISTER PACK",
+          "marketing_start_date": "20090610",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Major Pharmaceuticals"
+        ],
+        "rxcui": [
+          "197604",
+          "197606"
+        ],
+        "spl_set_id": [
+          "48cad559-c17b-4d41-a154-e664e958c1c0"
+        ],
+        "nui": [
+          "N0000175568",
+          "M0003451"
+        ],
+        "pharm_class_epc": [
+          "Cardiac Glycoside [EPC]"
+        ],
+        "pharm_class_cs": [
+          "Cardiac Glycosides [CS]"
+        ],
+        "unii": [
+          "73K4184T59"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "fad1e8b6-cb2e-46de-8f64-22de878e8028",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20090610",
+      "product_id": "0904-5922_fad1e8b6-cb2e-46de-8f64-22de878e8028",
+      "application_number": "ANDA077002",
+      "brand_name_base": "Digoxin",
+      "pharm_class": [
+        "Cardiac Glycoside [EPC]",
+        "Cardiac Glycosides [CS]"
+      ]
+    },
+    {
+      "product_ndc": "87159-001",
+      "generic_name": "Alcohol",
+      "labeler_name": "DGE Essentials Inc",
+      "brand_name": "Alcohol wipes Hand Sanitizing Wipes",
+      "active_ingredients": [
+        {
+          "name": "ALCOHOL",
+          "strength": ".75 mL/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "87159-001-80",
+          "description": "80 PATCH in 1 PACKET (87159-001-80)  / 1 mL in 1 PATCH",
+          "marketing_start_date": "20251020",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "DGE Essentials Inc"
+        ],
+        "rxcui": [
+          "1307051"
+        ],
+        "spl_set_id": [
+          "d14bf315-b0fa-4d3c-9801-e28678818af9"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "3K9958V90M"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "CLOTH",
+      "spl_id": "d14bf315-b0fa-4d3c-9801-e28678818af9",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20251020",
+      "product_id": "87159-001_d14bf315-b0fa-4d3c-9801-e28678818af9",
+      "application_number": "505G(a)(3)",
+      "brand_name_base": "Alcohol wipes Hand Sanitizing Wipes"
+    },
+    {
+      "product_ndc": "0904-6324",
+      "generic_name": "Metoprolol succinate",
+      "labeler_name": "Major Pharmaceuticals",
+      "brand_name": "Metoprolol succinate",
+      "active_ingredients": [
+        {
+          "name": "METOPROLOL SUCCINATE",
+          "strength": "100 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0904-6324-61",
+          "description": "100 BLISTER PACK in 1 CARTON (0904-6324-61)  / 1 TABLET, FILM COATED, EXTENDED RELEASE in 1 BLISTER PACK",
+          "marketing_start_date": "20120910",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Major Pharmaceuticals"
+        ],
+        "rxcui": [
+          "866412"
+        ],
+        "spl_set_id": [
+          "459fe5ce-14d1-4901-956a-b5597ea9016c"
+        ],
+        "unii": [
+          "TH25PD4CCB"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "spl_id": "3a5081c5-ab10-434e-9853-3d1d508ed7f1",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20120910",
+      "product_id": "0904-6324_3a5081c5-ab10-434e-9853-3d1d508ed7f1",
+      "application_number": "ANDA078889",
+      "brand_name_base": "Metoprolol succinate",
+      "pharm_class": [
+        "Adrenergic beta-Antagonists [MoA]",
+        "beta-Adrenergic Blocker [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "87063-041",
+      "generic_name": "Methocarbamol",
+      "labeler_name": "Asclemed USA, Inc.",
+      "brand_name": "Methocarbamol",
+      "active_ingredients": [
+        {
+          "name": "METHOCARBAMOL",
+          "strength": "750 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "87063-041-01",
+          "description": "100 TABLET, FILM COATED in 1 BOTTLE (87063-041-01)",
+          "marketing_start_date": "20251124",
+          "sample": false
+        },
+        {
+          "package_ndc": "87063-041-10",
+          "description": "10 TABLET, FILM COATED in 1 BOTTLE (87063-041-10)",
+          "marketing_start_date": "20251124",
+          "sample": false
+        },
+        {
+          "package_ndc": "87063-041-20",
+          "description": "20 TABLET, FILM COATED in 1 BOTTLE (87063-041-20)",
+          "marketing_start_date": "20251124",
+          "sample": false
+        },
+        {
+          "package_ndc": "87063-041-30",
+          "description": "30 TABLET, FILM COATED in 1 BOTTLE (87063-041-30)",
+          "marketing_start_date": "20251124",
+          "sample": false
+        },
+        {
+          "package_ndc": "87063-041-60",
+          "description": "60 TABLET, FILM COATED in 1 BOTTLE (87063-041-60)",
+          "marketing_start_date": "20251124",
+          "sample": false
+        },
+        {
+          "package_ndc": "87063-041-90",
+          "description": "90 TABLET, FILM COATED in 1 BOTTLE (87063-041-90)",
+          "marketing_start_date": "20251124",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Asclemed USA, Inc."
+        ],
+        "rxcui": [
+          "197943",
+          "197944"
+        ],
+        "spl_set_id": [
+          "7f297ac6-a580-4539-a770-fe5d15c2b922"
+        ],
+        "nui": [
+          "N0000175730",
+          "N0000175737"
+        ],
+        "pharm_class_pe": [
+          "Centrally-mediated Muscle Relaxation [PE]"
+        ],
+        "pharm_class_epc": [
+          "Muscle Relaxant [EPC]"
+        ],
+        "unii": [
+          "125OD7737X"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, FILM COATED",
+      "spl_id": "445114b8-5b56-c48d-e063-6294a90a31d1",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20200812",
+      "product_id": "87063-041_445114b8-5b56-c48d-e063-6294a90a31d1",
+      "application_number": "ANDA213967",
+      "brand_name_base": "Methocarbamol",
+      "pharm_class": [
+        "Centrally-mediated Muscle Relaxation [PE]",
+        "Muscle Relaxant [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "87247-940",
+      "generic_name": "ETHYL ALCOHOL",
+      "labeler_name": "Diamond Life Cosmetics Trading FZCO",
+      "brand_name": "AURA LANE HAND SANITIZER DUO - WHITE JASMINE AND VELVET ROSE SCENT",
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "87247-940-02",
+          "description": "1 KIT in 1 BOX (87247-940-02)  *  40 mL in 1 BOTTLE, SPRAY *  40 mL in 1 BOTTLE, SPRAY",
+          "marketing_start_date": "20260629",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Diamond Life Cosmetics Trading FZCO"
+        ],
+        "rxcui": [
+          "1041849"
+        ],
+        "spl_set_id": [
+          "abcd7255-8fa2-4097-aa39-588ecc49de3c"
+        ],
+        "is_original_packager": [
+          true
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "KIT",
+      "spl_id": "b0557cab-f568-4191-a225-0f08943cdca6",
+      "product_type": "HUMAN OTC DRUG",
+      "marketing_start_date": "20260629",
+      "product_id": "87247-940_b0557cab-f568-4191-a225-0f08943cdca6",
+      "application_number": "505G(a)(3)",
+      "brand_name_base": "AURA LANE HAND SANITIZER DUO - WHITE JASMINE AND VELVET ROSE SCENT"
+    },
+    {
+      "product_ndc": "87357-002",
+      "generic_name": "ETHYLHEXYL SALICYLATE",
+      "labeler_name": "Guangdong Zhoubang Biotechnology Co., Ltd",
+      "brand_name": "Sunscreen lip balm",
+      "active_ingredients": [
+        {
+          "name": "BUTYL METHOXYDIBENZOYLMETHANE",
+          "strength": "1 g/100g"
+        },
+        {
+          "name": "ETHYLHEXYL SALICYLATE",
+          "strength": "3 g/100g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "87357-002-01",
+          "description": "4.5 g in 1 TUBE (87357-002-01)",
+          "marketing_start_date": "20260122",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Guangdong Zhoubang Biotechnology Co., Ltd"
+        ],
+        "spl_set_id": [
+          "48f1ee5c-33d0-818c-e063-6294a90a1e59"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "G63QQF2NOX",
+          "4X49Y0596W"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "LIPSTICK",
+      "spl_id": "48f1ee5c-33d1-818c-e063-6294a90a1e59",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20260122",
+      "product_id": "87357-002_48f1ee5c-33d1-818c-e063-6294a90a1e59",
+      "application_number": "M020",
+      "brand_name_base": "Sunscreen lip balm"
+    },
+    {
+      "product_ndc": "38779-0279",
+      "generic_name": "Ketoconazole",
+      "labeler_name": "Medisca Inc.",
+      "active_ingredients": [
+        {
+          "name": "KETOCONAZOLE",
+          "strength": "1 g/g"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "38779-0279-1",
+          "description": "10 g in 1 JAR (38779-0279-1)",
+          "marketing_start_date": "30-DEC-08"
+        },
+        {
+          "package_ndc": "38779-0279-3",
+          "description": "5 g in 1 BOTTLE, GLASS (38779-0279-3)",
+          "marketing_start_date": "30-DEC-08"
+        },
+        {
+          "package_ndc": "38779-0279-4",
+          "description": "25 g in 1 JAR (38779-0279-4)",
+          "marketing_start_date": "30-DEC-08"
+        },
+        {
+          "package_ndc": "38779-0279-5",
+          "description": "100 g in 1 JAR (38779-0279-5)",
+          "marketing_start_date": "30-DEC-08"
+        },
+        {
+          "package_ndc": "38779-0279-7",
+          "description": "25000 g in 1 DRUM (38779-0279-7)",
+          "marketing_start_date": "30-DEC-08"
+        },
+        {
+          "package_ndc": "38779-0279-8",
+          "description": "500 g in 1 JAR (38779-0279-8)",
+          "marketing_start_date": "30-DEC-08"
+        },
+        {
+          "package_ndc": "38779-0279-9",
+          "description": "1000 g in 1 JAR (38779-0279-9)",
+          "marketing_start_date": "30-DEC-08"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT FOR HUMAN PRESCRIPTION COMPOUNDING",
+      "dosage_form": "POWDER",
+      "spl_id": "43900777-e289-3590-e063-6294a90ab948",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20081230",
+      "product_id": "38779-0279_43900777-e289-3590-e063-6294a90ab948",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "0924-7115",
+      "generic_name": "BENZALKONIUM CHLORIDE",
+      "labeler_name": "Acme United Corporation",
+      "brand_name": "First Aid Only BZK Antiseptic Towelettes",
+      "active_ingredients": [
+        {
+          "name": "BENZALKONIUM CHLORIDE",
+          "strength": "1.3 mg/mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0924-7115-00",
+          "description": "1.6 mL in 1 POUCH (0924-7115-00)",
+          "marketing_start_date": "20210809",
+          "sample": false
+        },
+        {
+          "package_ndc": "0924-7115-01",
+          "description": "10 POUCH in 1 CARTON (0924-7115-01)  / 1.6 mL in 1 POUCH",
+          "marketing_start_date": "20210809",
+          "sample": false
+        },
+        {
+          "package_ndc": "0924-7115-02",
+          "description": "25 POUCH in 1 CARTON (0924-7115-02)  / 1.6 mL in 1 POUCH",
+          "marketing_start_date": "20210809",
+          "sample": false
+        },
+        {
+          "package_ndc": "0924-7115-03",
+          "description": "50 POUCH in 1 CARTON (0924-7115-03)  / 1.6 mL in 1 POUCH",
+          "marketing_start_date": "20210809",
+          "sample": false
+        },
+        {
+          "package_ndc": "0924-7115-04",
+          "description": "100 POUCH in 1 CARTON (0924-7115-04)  / 1.6 mL in 1 POUCH",
+          "marketing_start_date": "20210809",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Acme United Corporation"
+        ],
+        "rxcui": [
+          "1043307"
+        ],
+        "spl_set_id": [
+          "c927f845-1383-ae85-e053-2995a90a12fc"
+        ],
+        "upc": [
+          "0738743120180"
+        ],
+        "unii": [
+          "F5UM2KM3W7"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "LIQUID",
+      "spl_id": "24868080-ed54-b0d6-e063-6294a90ae5d6",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20210809",
+      "product_id": "0924-7115_24868080-ed54-b0d6-e063-6294a90ae5d6",
+      "application_number": "M003",
+      "brand_name_base": "First Aid Only BZK Antiseptic Towelettes"
+    },
+    {
+      "product_ndc": "42385-714",
+      "generic_name": "Lamivudine",
+      "labeler_name": "LAURUS LABS LIMITED",
+      "active_ingredients": [
+        {
+          "name": "LAMIVUDINE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "42385-714-02",
+          "description": "2 kg in 1 DRUM (42385-714-02)",
+          "marketing_start_date": "07-JUL-17"
+        },
+        {
+          "package_ndc": "42385-714-10",
+          "description": "10 kg in 1 DRUM (42385-714-10)",
+          "marketing_start_date": "07-JUL-17"
+        },
+        {
+          "package_ndc": "42385-714-20",
+          "description": "20 kg in 1 DRUM (42385-714-20)",
+          "marketing_start_date": "07-JUL-17"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "0d645d2c-e494-4ef4-96fa-5cfb3fd0c31b",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20170707",
+      "product_id": "42385-714_0d645d2c-e494-4ef4-96fa-5cfb3fd0c31b",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "42816-1101",
+      "generic_name": "conjugated estrogens",
+      "labeler_name": "Pfizer Ireland Pharmaceuticals Unlimited Company",
+      "active_ingredients": [
+        {
+          "name": "ESTROGENS, CONJUGATED",
+          "strength": ".45 mg/1"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "42816-1101-1",
+          "description": "1 BAG in 1 BOX (42816-1101-1)  / 69435 TABLET, FILM COATED in 1 BAG",
+          "marketing_start_date": "01-JAN-12"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "DRUG FOR FURTHER PROCESSING",
+      "dosage_form": "TABLET, FILM COATED",
+      "spl_id": "8a6e3b0d-a293-4981-87f9-df91ddae7dc9",
+      "product_type": "DRUG FOR FURTHER PROCESSING",
+      "marketing_start_date": "20120101",
+      "product_id": "42816-1101_8a6e3b0d-a293-4981-87f9-df91ddae7dc9",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "43647-456",
+      "generic_name": "Testosterone",
+      "labeler_name": "ASG Biochem Private Limited",
+      "dea_schedule": "CIII",
+      "active_ingredients": [
+        {
+          "name": "1-TESTOSTERONE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "43647-456-01",
+          "description": "1 kg in 1 DRUM (43647-456-01)",
+          "marketing_start_date": "01-DEC-25"
+        },
+        {
+          "package_ndc": "43647-456-02",
+          "description": "5 kg in 1 DRUM (43647-456-02)",
+          "marketing_start_date": "01-DEC-25"
+        },
+        {
+          "package_ndc": "43647-456-03",
+          "description": "10 kg in 1 DRUM (43647-456-03)",
+          "marketing_start_date": "01-DEC-25"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "45b0023d-3da3-70b4-e063-6294a90a499a",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20251201",
+      "product_id": "43647-456_45b0023d-3da3-70b4-e063-6294a90a499a",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "0009-5086",
+      "generic_name": "Hydrocortisone Hemisuccinate",
+      "labeler_name": "Pharmacia and Upjohn Company LLC",
+      "active_ingredients": [
+        {
+          "name": "HYDROCORTISONE HEMISUCCINATE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "0009-5086-01",
+          "description": "1 BAG in 1 DRUM (0009-5086-01)  / 55 kg in 1 BAG",
+          "marketing_start_date": "03-JUL-14"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "c15788ce-9ec2-474a-a2cb-7dac3fcfd32c",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20140703",
+      "product_id": "0009-5086_c15788ce-9ec2-474a-a2cb-7dac3fcfd32c",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "0186-0742",
+      "generic_name": "Omeprazole magnesium",
+      "labeler_name": "AstraZeneca Pharmaceuticals LP",
+      "active_ingredients": [
+        {
+          "name": "OMEPRAZOLE MAGNESIUM",
+          "strength": "20 mg/1"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "0186-0742-00",
+          "description": "10000 CAPSULE, DELAYED RELEASE in 1 DRUM (0186-0742-00)",
+          "marketing_start_date": "01-JAN-15"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "DRUG FOR FURTHER PROCESSING",
+      "dosage_form": "CAPSULE, DELAYED RELEASE",
+      "spl_id": "89dce2ec-7589-4310-8486-e40bb84a4fe6",
+      "product_type": "DRUG FOR FURTHER PROCESSING",
+      "marketing_start_date": "20150101",
+      "product_id": "0186-0742_89dce2ec-7589-4310-8486-e40bb84a4fe6",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "0456-1215",
+      "generic_name": "memantine hydrochloride and donepezil hydrochloride",
+      "labeler_name": "Allergan, Inc.",
+      "active_ingredients": [
+        {
+          "name": "MEMANTINE HYDROCHLORIDE",
+          "strength": "14 mg/1"
+        },
+        {
+          "name": "DONEPEZIL HYDROCHLORIDE",
+          "strength": "10 mg/1"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "0456-1215-00",
+          "description": "1 BAG in 1 DRUM (0456-1215-00)  / 25000 CAPSULE in 1 BAG",
+          "marketing_start_date": "24-DEC-14"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "DRUG FOR FURTHER PROCESSING",
+      "dosage_form": "CAPSULE",
+      "spl_id": "ce239dd3-32d7-45bf-b314-8c66271fea30",
+      "product_type": "DRUG FOR FURTHER PROCESSING",
+      "marketing_start_date": "20141224",
+      "product_id": "0456-1215_ce239dd3-32d7-45bf-b314-8c66271fea30",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "10117-0936",
+      "generic_name": "Ibuprofen",
+      "labeler_name": "BASF Corporation",
+      "active_ingredients": [
+        {
+          "name": "IBUPROFEN",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "10117-0936-1",
+          "description": "50 kg in 1 DRUM (10117-0936-1)",
+          "marketing_start_date": "08-JUN-10"
+        },
+        {
+          "package_ndc": "10117-0936-2",
+          "description": "370 kg in 1 SUPERSACK (10117-0936-2)",
+          "marketing_start_date": "01-JAN-25"
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT FOR HUMAN PRESCRIPTION COMPOUNDING",
+      "dosage_form": "POWDER",
+      "spl_id": "f3feb358-9ffa-4b7b-b761-768faf111b12",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20100608",
+      "product_id": "10117-0936_f3feb358-9ffa-4b7b-b761-768faf111b12",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "10888-5013",
+      "generic_name": "ACETAMINOPHEN, DEXTROMETHORPHAN HYDROBROMIDE, and PHENYLEPHRINE HYDROCHLORIDE",
+      "labeler_name": "Patheon Softgels Inc",
+      "active_ingredients": [
+        {
+          "name": "ACETAMINOPHEN",
+          "strength": "325 mg/1"
+        },
+        {
+          "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+          "strength": "10 mg/1"
+        },
+        {
+          "name": "PHENYLEPHRINE HYDROCHLORIDE",
+          "strength": "5 mg/1"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "10888-5013-1",
+          "description": "5000 CAPSULE, LIQUID FILLED in 1 CASE (10888-5013-1)",
+          "marketing_start_date": "01-FEB-12"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "DRUG FOR FURTHER PROCESSING",
+      "dosage_form": "CAPSULE, LIQUID FILLED",
+      "spl_id": "015340c8-1a48-426e-8d02-9c1789e678e0",
+      "product_type": "DRUG FOR FURTHER PROCESSING",
+      "marketing_start_date": "20120201",
+      "product_id": "10888-5013_015340c8-1a48-426e-8d02-9c1789e678e0",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "11014-0326",
+      "generic_name": "Ibrutinib",
+      "labeler_name": "Catalent Pharma Solutions, LLC",
+      "active_ingredients": [
+        {
+          "name": "IBRUTINIB",
+          "strength": "140 mg/1"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "11014-0326-4",
+          "description": "1 BAG in 1 DRUM (11014-0326-4)  / 125000 TABLET, FILM COATED in 1 BAG",
+          "marketing_start_date": "01-AUG-22"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "DRUG FOR FURTHER PROCESSING",
+      "dosage_form": "TABLET, FILM COATED",
+      "spl_id": "e411d4bf-ae64-f46b-e053-2995a90abd46",
+      "product_type": "DRUG FOR FURTHER PROCESSING",
+      "marketing_start_date": "20180216",
+      "product_id": "11014-0326_e411d4bf-ae64-f46b-e053-2995a90abd46",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "12598-6305",
+      "generic_name": "Mesalazine",
+      "labeler_name": "PharmaZell GmbH",
+      "active_ingredients": [
+        {
+          "name": "MESALAMINE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "12598-6305-1",
+          "description": "50 kg in 1 DRUM (12598-6305-1)",
+          "marketing_start_date": "01-APR-01"
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "4fdf8a46-ecd1-fd57-e063-6394a90a3edd",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20010401",
+      "product_id": "12598-6305_4fdf8a46-ecd1-fd57-e063-6394a90a3edd",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "12784-177",
+      "generic_name": "Magnesium Hydroxide",
+      "labeler_name": "SPI Pharma, Inc.",
+      "active_ingredients": [
+        {
+          "name": "MAGNESIUM HYDROXIDE",
+          "strength": "31 kg/100kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "12784-177-27",
+          "description": "227 kg in 1 DRUM (12784-177-27)",
+          "marketing_start_date": "24-OCT-18"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "DRUG FOR FURTHER PROCESSING",
+      "dosage_form": "PASTE",
+      "spl_id": "5401d55d-34d6-4711-963d-e1c98e48eb76",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20130328",
+      "product_id": "12784-177_5401d55d-34d6-4711-963d-e1c98e48eb76",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "14335-160",
+      "generic_name": "Memantine Hydrochloride",
+      "labeler_name": "Hainan Poly Pharm. Co., Ltd.",
+      "active_ingredients": [
+        {
+          "name": "MEMANTINE HYDROCHLORIDE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "14335-160-01",
+          "description": ".9 kg in 1 DRUM (14335-160-01)",
+          "marketing_start_date": "10-DEC-21"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "0bd47af8-b104-0ee1-e063-6394a90a7df2",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20211210",
+      "product_id": "14335-160_0bd47af8-b104-0ee1-e063-6394a90a7df2",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "11532-3680",
+      "generic_name": "leuprolide acetate",
+      "labeler_name": "Takeda Pharmaceutical Company LTD",
+      "active_ingredients": [
+        {
+          "name": "LEUPROLIDE ACETATE",
+          "strength": "30 mg/1.5mL"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "11532-3680-1",
+          "description": "200 SYRINGE in 1 DRUM (11532-3680-1)  / 1.5 mL in 1 SYRINGE",
+          "marketing_start_date": "23-AUG-10"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "DRUG FOR FURTHER PROCESSING",
+      "dosage_form": "INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION",
+      "spl_id": "88dad9f7-7aeb-43c5-beb6-b3109511aaad",
+      "product_type": "DRUG FOR FURTHER PROCESSING",
+      "marketing_start_date": "20100823",
+      "product_id": "11532-3680_88dad9f7-7aeb-43c5-beb6-b3109511aaad",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "14534-228",
+      "generic_name": "METHYL SALICYLATE",
+      "labeler_name": "JQC (Huayin) Pharmaceutical Co., Ltd.",
+      "active_ingredients": [
+        {
+          "name": "METHYL SALICYLATE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "14534-228-03",
+          "description": "25 kg in 1 DRUM (14534-228-03)",
+          "marketing_start_date": "20-MAY-08"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "LIQUID",
+      "spl_id": "290323d2-7483-e443-e063-6294a90abda3",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20080520",
+      "product_id": "14534-228_290323d2-7483-e443-e063-6294a90abda3",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "15613-300",
+      "generic_name": "zinc oxide",
+      "labeler_name": "EZUF NL B.V.",
+      "active_ingredients": [
+        {
+          "name": "ZINC OXIDE",
+          "strength": "12.5 kg/12.5kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "15613-300-05",
+          "description": ".5 kg in 1 BOTTLE, PLASTIC (15613-300-05)",
+          "marketing_start_date": "10-AUG-12"
+        },
+        {
+          "package_ndc": "15613-300-12",
+          "description": "12.5 kg in 1 BOX (15613-300-12)",
+          "marketing_start_date": "10-AUG-12"
+        },
+        {
+          "package_ndc": "15613-300-20",
+          "description": "20 kg in 1 BOX (15613-300-20)",
+          "marketing_start_date": "18-NOV-20"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "DRUG FOR FURTHER PROCESSING",
+      "dosage_form": "POWDER",
+      "spl_id": "441a9e72-5154-dd6c-e063-6394a90aae89",
+      "product_type": "DRUG FOR FURTHER PROCESSING",
+      "marketing_start_date": "20120810",
+      "product_id": "15613-300_441a9e72-5154-dd6c-e063-6394a90aae89",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "0904-7531",
+      "generic_name": "brompheniramine maleate, dextromethorphan hydrobromide",
+      "labeler_name": "Major Pharmaceuticals",
+      "brand_name": "childrens cold and cough",
+      "active_ingredients": [
+        {
+          "name": "BROMPHENIRAMINE MALEATE",
+          "strength": "2 mg/10mL"
+        },
+        {
+          "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+          "strength": "10 mg/10mL"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0904-7531-20",
+          "description": "1 BOTTLE in 1 CARTON (0904-7531-20)  / 118 mL in 1 BOTTLE",
+          "marketing_start_date": "20250310",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Major Pharmaceuticals"
+        ],
+        "rxcui": [
+          "2683421"
+        ],
+        "spl_set_id": [
+          "614880db-478f-468a-8aa2-5ea483cbcfcd"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "IXA7C9ZN03",
+          "9D2RTI9KYH"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "SOLUTION",
+      "spl_id": "794d025b-8259-45ed-acd0-c119ce5e0cb2",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20250310",
+      "product_id": "0904-7531_794d025b-8259-45ed-acd0-c119ce5e0cb2",
+      "application_number": "M012",
+      "brand_name_base": "childrens cold and cough",
+      "pharm_class": [
+        "Sigma-1 Agonist [EPC]",
+        "Sigma-1 Receptor Agonists [MoA]",
+        "Uncompetitive N-methyl-D-aspartate Receptor Antagonist [EPC]",
+        "Uncompetitive NMDA Receptor Antagonists [MoA]"
+      ]
+    },
+    {
+      "product_ndc": "0069-5450",
+      "generic_name": "nirmatrelvir and ritonavir",
+      "labeler_name": "Pfizer Laboratories Div Pfizer Inc",
+      "brand_name": "Paxlovid",
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0069-5450-11",
+          "description": "1 BLISTER PACK in 1 CARTON (0069-5450-11)  / 1 KIT in 1 BLISTER PACK *  6 TABLET, FILM COATED in 1 BLISTER PACK (0069-2085-06)  *  5 TABLET, FILM COATED in 1 BLISTER PACK (0069-1345-05)",
+          "marketing_start_date": "20260105",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Pfizer Laboratories Div Pfizer Inc"
+        ],
+        "rxcui": [
+          "900575",
+          "2587897",
+          "2587898",
+          "2587899",
+          "2599542",
+          "2599543",
+          "2704986",
+          "2704987"
+        ],
+        "spl_set_id": [
+          "8a99d6d6-fd9e-45bb-b1bf-48c7f761232a"
+        ],
+        "is_original_packager": [
+          true
+        ]
+      },
+      "marketing_category": "NDA",
+      "dosage_form": "KIT",
+      "spl_id": "d20f905e-5c85-4ad4-ab46-871ce4f6669e",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "marketing_start_date": "20260105",
+      "product_id": "0069-5450_d20f905e-5c85-4ad4-ab46-871ce4f6669e",
+      "application_number": "NDA217188",
+      "brand_name_base": "Paxlovid"
+    },
+    {
+      "product_ndc": "0904-7640",
+      "generic_name": "Midodrine Hydrochloride",
+      "labeler_name": "Major Pharmaceuticals",
+      "brand_name": "Midodrine Hydrochloride",
+      "active_ingredients": [
+        {
+          "name": "MIDODRINE HYDROCHLORIDE",
+          "strength": "2.5 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "0904-7640-06",
+          "description": "5 BLISTER PACK in 1 CARTON (0904-7640-06)  / 10 TABLET in 1 BLISTER PACK",
+          "marketing_start_date": "20260901",
+          "sample": false
+        },
+        {
+          "package_ndc": "0904-7640-61",
+          "description": "10 BLISTER PACK in 1 CARTON (0904-7640-61)  / 10 TABLET in 1 BLISTER PACK",
+          "marketing_start_date": "20260901",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Major Pharmaceuticals"
+        ],
+        "spl_set_id": [
+          "dccf040b-e8de-40b5-9977-8b3e56830157"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "59JV96YTXV"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET",
+      "spl_id": "c81075bc-652e-4d49-af7d-040eca6445c7",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20260901",
+      "product_id": "0904-7640_c81075bc-652e-4d49-af7d-040eca6445c7",
+      "application_number": "ANDA217271",
+      "brand_name_base": "Midodrine Hydrochloride",
+      "pharm_class": [
+        "Adrenergic alpha-Agonists [MoA]",
+        "alpha-Adrenergic Agonist [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "31260-224",
+      "generic_name": "ALUMINUM SESQUICHLOROHYDRATE",
+      "labeler_name": "Gulbrandsen Technologies India Private Limited",
+      "active_ingredients": [
+        {
+          "name": "ALUMINUM SESQUICHLOROHYDRATE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "31260-224-01",
+          "description": "136 kg in 1 DRUM (31260-224-01)",
+          "marketing_start_date": "01-JAN-23"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "45bc0315-20a6-757a-e063-6294a90aadca",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20230101",
+      "product_id": "31260-224_45bc0315-20a6-757a-e063-6294a90aadca",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "10157-1120",
+      "generic_name": "DIMETHICONE, OCTINOXATE, and OCTISALATE",
+      "labeler_name": "Blistex Inc",
+      "brand_name": "Blistex Medicated Mint Balm",
+      "active_ingredients": [
+        {
+          "name": "DIMETHICONE",
+          "strength": "2 g/100g"
+        },
+        {
+          "name": "OCTINOXATE",
+          "strength": "6.6 g/100g"
+        },
+        {
+          "name": "OCTISALATE",
+          "strength": "4.4 g/100g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "10157-1120-1",
+          "description": "1 CYLINDER in 1 CARTON (10157-1120-1)  / 4.25 g in 1 CYLINDER",
+          "marketing_start_date": "20180115",
+          "sample": false
+        },
+        {
+          "package_ndc": "10157-1120-2",
+          "description": "2 CYLINDER in 1 CARTON (10157-1120-2)  / 4.25 g in 1 CYLINDER",
+          "marketing_start_date": "20240208",
+          "sample": false
+        },
+        {
+          "package_ndc": "10157-1120-3",
+          "description": "3 CYLINDER in 1 CARTON (10157-1120-3)  / 4.25 g in 1 CYLINDER",
+          "marketing_start_date": "20180115",
+          "sample": false
+        },
+        {
+          "package_ndc": "10157-1120-4",
+          "description": "4 CYLINDER in 1 CARTON (10157-1120-4)  / 4.25 g in 1 CYLINDER",
+          "marketing_start_date": "20180115",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Blistex Inc"
+        ],
+        "spl_set_id": [
+          "86fc9f3c-e35f-4988-bf19-64d9c6c85ee9"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "upc": [
+          "0041388220314"
+        ],
+        "nui": [
+          "N0000010282"
+        ],
+        "pharm_class_pe": [
+          "Skin Barrier Activity [PE]"
+        ],
+        "unii": [
+          "92RU3N3Y1O",
+          "4Y5P7MUD51",
+          "4X49Y0596W"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "STICK",
+      "spl_id": "296bc9f7-dcd4-48e5-9ea1-1557b5953fe7",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20180115",
+      "product_id": "10157-1120_296bc9f7-dcd4-48e5-9ea1-1557b5953fe7",
+      "application_number": "M016",
+      "brand_name_base": "Blistex Medicated Mint Balm",
+      "pharm_class": [
+        "Skin Barrier Activity [PE]"
+      ]
+    },
+    {
+      "product_ndc": "10157-9077",
+      "generic_name": "Zinc Oxide, Benzyl Alcohol, and Diphenhydramine Hydrochloride",
+      "labeler_name": "Blistex Inc",
+      "brand_name": "Ivarest",
+      "active_ingredients": [
+        {
+          "name": "ZINC OXIDE",
+          "strength": "14 g/100g"
+        },
+        {
+          "name": "BENZYL ALCOHOL",
+          "strength": "10.5 g/100g"
+        },
+        {
+          "name": "DIPHENHYDRAMINE HYDROCHLORIDE",
+          "strength": "2 g/100g"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "10157-9077-1",
+          "description": "1 TUBE in 1 CARTON (10157-9077-1)  / 56 g in 1 TUBE",
+          "marketing_start_date": "20071231",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {
+        "manufacturer_name": [
+          "Blistex Inc"
+        ],
+        "rxcui": [
+          "1298467"
+        ],
+        "spl_set_id": [
+          "6f68cbbb-6269-4bb3-8cc9-50b146703b42"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "nui": [
+          "N0000181811"
+        ],
+        "pharm_class_epc": [
+          "Pediculicide [EPC]"
+        ],
+        "unii": [
+          "SOI2LOH54Z",
+          "LKG8494WBH",
+          "TC2D6JAD40"
+        ]
+      },
+      "marketing_category": "OTC MONOGRAPH DRUG",
+      "dosage_form": "CREAM",
+      "spl_id": "3f9296ee-f86d-4ca4-922d-1b6926de869d",
+      "product_type": "HUMAN OTC DRUG",
+      "route": [
+        "TOPICAL"
+      ],
+      "marketing_start_date": "20071231",
+      "product_id": "10157-9077_3f9296ee-f86d-4ca4-922d-1b6926de869d",
+      "application_number": "M016",
+      "brand_name_base": "Ivarest",
+      "pharm_class": [
+        "Histamine H1 Receptor Antagonists [MoA]",
+        "Histamine-1 Receptor Antagonist [EPC]",
+        "Pediculicide [EPC]"
+      ]
+    },
+    {
+      "product_ndc": "52972-0026",
+      "generic_name": "RIFAMPIN",
+      "labeler_name": "CKD Bio Corporation",
+      "active_ingredients": [
+        {
+          "name": "RIFAMPIN",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "52972-0026-0",
+          "description": "25 kg in 1 DRUM (52972-0026-0)",
+          "marketing_start_date": "16-NOV-98"
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "5333826a-ab09-5e1b-e063-6394a90ac59e",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "19981116",
+      "product_id": "52972-0026_5333826a-ab09-5e1b-e063-6394a90ac59e",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "53183-6039",
+      "generic_name": "Idarubicin Hydrochloride Lyoph.",
+      "labeler_name": "Sicor S.r.l.",
+      "active_ingredients": [
+        {
+          "name": "IDARUBICIN HYDROCHLORIDE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "53183-6039-1",
+          "description": "1 kg in 1 CARTON (53183-6039-1)",
+          "marketing_start_date": "24-OCT-10"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "fea7959b-2107-4875-a7b2-174a62d59599",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20101024",
+      "product_id": "53183-6039_fea7959b-2107-4875-a7b2-174a62d59599",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "10135-824",
+      "generic_name": "METFORMIN HYDROCHLORIDE",
+      "labeler_name": "Marlex Pharmaceuticals, Inc.",
+      "brand_name": "METFORMIN HYDROCHLORIDE",
+      "active_ingredients": [
+        {
+          "name": "METFORMIN HYDROCHLORIDE",
+          "strength": "750 mg/1"
+        }
+      ],
+      "finished": true,
+      "packaging": [
+        {
+          "package_ndc": "10135-824-05",
+          "description": "500 TABLET, EXTENDED RELEASE in 1 BOTTLE (10135-824-05)",
+          "marketing_start_date": "20260901",
+          "sample": false
+        },
+        {
+          "package_ndc": "10135-824-10",
+          "description": "1000 TABLET, EXTENDED RELEASE in 1 BOTTLE (10135-824-10)",
+          "marketing_start_date": "20260901",
+          "sample": false
+        },
+        {
+          "package_ndc": "10135-824-90",
+          "description": "90 TABLET, EXTENDED RELEASE in 1 BOTTLE (10135-824-90)",
+          "marketing_start_date": "20260901",
+          "sample": false
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {
+        "manufacturer_name": [
+          "Marlex Pharmaceuticals, Inc."
+        ],
+        "spl_set_id": [
+          "3d6f397b-e909-bee9-e063-6294a90aba17"
+        ],
+        "is_original_packager": [
+          true
+        ],
+        "unii": [
+          "786Z46389E"
+        ]
+      },
+      "marketing_category": "ANDA",
+      "dosage_form": "TABLET, EXTENDED RELEASE",
+      "spl_id": "552f9cd1-3596-e2aa-e063-6294a90a8219",
+      "product_type": "HUMAN PRESCRIPTION DRUG",
+      "route": [
+        "ORAL"
+      ],
+      "marketing_start_date": "20260901",
+      "product_id": "10135-824_552f9cd1-3596-e2aa-e063-6294a90a8219",
+      "application_number": "ANDA202306",
+      "brand_name_base": "METFORMIN HYDROCHLORIDE",
+      "pharm_class": [
+        "Biguanide [EPC]",
+        "Biguanides [CS]"
+      ]
+    },
+    {
+      "product_ndc": "46014-1124",
+      "generic_name": "Baclofen",
+      "labeler_name": "Excella GmbH & Co. KG",
+      "active_ingredients": [
+        {
+          "name": "BACLOFEN",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "46014-1124-1",
+          "description": "50 kg in 1 DRUM (46014-1124-1)",
+          "marketing_start_date": "10-OCT-07"
+        }
+      ],
+      "listing_expiration_date": "20271231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "550fcf1d-f8c0-f095-e063-6394a90a4c27",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20071010",
+      "product_id": "46014-1124_550fcf1d-f8c0-f095-e063-6394a90a4c27",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "46439-8783",
+      "generic_name": "TRIAMCINOLONE ACETONIDE",
+      "labeler_name": "Farmabios S.p.A.",
+      "active_ingredients": [
+        {
+          "name": "TRIAMCINOLONE ACETONIDE",
+          "strength": "1 g/g"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "46439-8783-1",
+          "description": "3000 g in 1 DRUM (46439-8783-1)",
+          "marketing_start_date": "20-FEB-25"
+        },
+        {
+          "package_ndc": "46439-8783-2",
+          "description": "13000 g in 1 DRUM (46439-8783-2)",
+          "marketing_start_date": "20-FEB-25"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "6dc9e7d2-8db8-4178-ae7e-dc0e0b4bc5c4",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20250220",
+      "product_id": "46439-8783_6dc9e7d2-8db8-4178-ae7e-dc0e0b4bc5c4",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "48087-0068",
+      "generic_name": "QUETIAPINE FUMARATE",
+      "labeler_name": "F.I.S. FABBRICA ITALIANA SINTETICI S.P.A.",
+      "active_ingredients": [
+        {
+          "name": "QUETIAPINE FUMARATE",
+          "strength": "1 kg/kg"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "48087-0068-0",
+          "description": "50 kg in 1 DRUM (48087-0068-0)",
+          "marketing_start_date": "09-APR-10"
+        }
+      ],
+      "listing_expiration_date": "20261231",
+      "openfda": {},
+      "marketing_category": "BULK INGREDIENT",
+      "dosage_form": "POWDER",
+      "spl_id": "d34b5f70-ca3e-d5a1-e053-2995a90a0a92",
+      "product_type": "BULK INGREDIENT",
+      "marketing_start_date": "20100409",
+      "product_id": "48087-0068_d34b5f70-ca3e-d5a1-e053-2995a90a0a92",
+      "brand_name_base": null
+    },
+    {
+      "product_ndc": "43742-1993",
+      "marketing_end_date": "20260923",
+      "generic_name": "Enterococcus Faecalis, Pneumococcinum, Streptococcus Viridans",
+      "labeler_name": "Deseret Biologicals, Inc.",
+      "active_ingredients": [
+        {
+          "name": "ENTEROCOCCUS FAECALIS",
+          "strength": "15 [hp_X]/mL"
+        },
+        {
+          "name": "STREPTOCOCCUS PNEUMONIAE",
+          "strength": "15 [hp_X]/mL"
+        },
+        {
+          "name": "STREPTOCOCCUS VIRIDANS GROUP",
+          "strength": "15 [hp_X]/mL"
+        }
+      ],
+      "finished": false,
+      "packaging": [
+        {
+          "package_ndc": "43742-1993-1",
+          "description": "960 mL in 1 BOTTLE, PLASTIC (43742-1993-1)",
+          "marketing_start_date": "19-APR-21",
+          "marketing_end_date": "23-SEP-26"
+        }
+      ],
+      "openfda": {},
+      "marketing_category": "DRUG FOR FURTHER PROCESSING",
+      "dosage_form": "LIQUID",
+      "spl_id": "74c7fc09-74b5-418e-b524-63f7b2915d84",
+      "product_type": "DRUG FOR FURTHER PROCESSING",
+      "marketing_start_date": "20210419",
+      "product_id": "43742-1993_74c7fc09-74b5-418e-b524-63f7b2915d84",
+      "brand_name_base": null
+    }
+  ]
+}

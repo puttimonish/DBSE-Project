@@ -1,0 +1,16 @@
+.env
+node_modules/
+__pycache__/
+uploads/
+*.log
+
+# Local datasets / test files
+data/drug_images/
+ocr-test.png
+PharmaFlow_Current_Audit.zip
+audit-copy/
+frontend/dist/
+
+data/drug-packaging-dataset.zip
+
+data/drug-packaging-dataset.zip
