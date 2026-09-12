@@ -1,31 +1,71 @@
-<<<<<<< HEAD
-# PharmaFlow — Pharmacy E-Commerce with Prescription Validation
+﻿# PharmaFlow â€” Pharmacy E-Commerce with Prescription Validation
 
-Production-style academic full-stack implementation for Team 18.
+Team 18 academic full-stack project.
 
-## Stack
-- React + Vite frontend
+## Overview
+
+PharmaFlow is a prescription-aware pharmacy e-commerce application that combines a medicine catalog, customer authentication, prescription upload, OCR-assisted extraction, pharmacist verification, and order management.
+
+## Technology Stack
+
+- React + Vite
 - Node.js + Express REST API
-- MySQL relational database
-- FastAPI OCR service (Tesseract-ready, deterministic demo fallback)
-- JWT authentication + RBAC
-- Docker Compose
+- MySQL
+- FastAPI + Tesseract OCR
+- JWT authentication and role-based access control
 - Swagger/OpenAPI
-- Razorpay integration boundary
+- Docker Compose configuration
 
-## Core workflow
-Browse medicines → add to cart → upload prescription → OCR extraction → pharmacist verification → checkout → order tracking → refill reminders.
+## Core Workflow
 
-## Run
-1. Install Docker Desktop.
-2. Copy `.env.example` to `.env` and set secrets.
-3. `docker compose up --build`
-4. Frontend: http://localhost:5173
-5. API: http://localhost:5000/api/health
-6. Swagger: http://localhost:5000/api/docs
-7. OCR: http://localhost:8001/docs
+Browse medicines â†’ add products to cart â†’ create/sign in to an account â†’ upload prescription when required â†’ OCR-assisted extraction â†’ pharmacist review â†’ approved prescription â†’ checkout with Cash on Delivery â†’ order tracking.
 
-Demo accounts are seeded by `db/seed.sql`.
-=======
-# DBSE-Project-Monish
->>>>>>> c49253231fe7b74248acd704cf59b568a71a2168
+## Main Modules
+
+### Customer
+- Medicine catalog with search, category, prescription-only filter and sorting
+- Product images and stock visibility
+- Persistent per-user cart
+- Quantity controls and item removal
+- Account registration/login/logout
+- Prescription upload and OCR status
+- Prescription file viewing
+- Checkout and order history
+
+### Pharmacist / Admin
+- Protected staff workspace
+- Prescription review queue
+- Original prescription file viewing
+- Approve/reject workflow
+- Dashboard/order visibility
+
+### Backend
+- JWT authentication
+- RBAC for pharmacist/admin routes
+- MySQL persistence
+- Stock validation and transactional checkout
+- Prescription ownership validation
+- Protected prescription files
+- OCR service integration
+- Swagger API documentation
+
+## Local Run
+
+1. Start MySQL and make sure the `pharmaflow` database exists.
+2. Start the OCR service on port `8001`.
+3. Start the backend on port `5000`.
+4. Start the Vite frontend on port `5173`.
+
+### URLs
+
+- Frontend: `http://localhost:5173`
+- API health: `http://localhost:5000/api/health`
+- Swagger: `http://localhost:5000/api/docs`
+- OCR docs: `http://localhost:8001/docs`
+
+## Notes
+
+- Cash on Delivery is the currently enabled payment method.
+- Prescription OCR supports JPG/PNG input. PDFs are accepted for manual pharmacist review.
+- Dataset-derived product images are kept outside Git through `.gitignore`.
+- Never commit local `.env` files or database passwords.

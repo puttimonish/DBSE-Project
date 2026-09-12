@@ -127,3 +127,20 @@ footer p{color:#9eb0a9;line-height:1.5}
 .rxCard .status{display:inline-block;margin-top:10px}
 .rxText{white-space:pre-wrap;background:#f6f8fa;border-radius:10px;padding:10px;font-size:13px;line-height:1.5;max-height:140px;overflow:auto}
 .rxApproved{margin-top:10px;font-weight:600}
+
+.cartItem{display:flex;justify-content:space-between;align-items:center;gap:18px;padding:18px;border-bottom:1px solid #edf0ee}
+.cartItem:last-child{border-bottom:0}
+.cartInfo{display:grid;gap:5px;min-width:0}
+.cartInfo strong{font-size:15px}
+.cartInfo small{color:#78867f}
+.cartControls{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:flex-end}
+.cartControls>button:not(.removeBtn){width:32px;height:32px;border:1px solid #dce4df;background:#fff;border-radius:8px;font-weight:700}
+.cartControls>button:hover{border-color:#123d31;color:#123d31}
+.cartControls>span{min-width:24px;text-align:center;font-weight:700}
+.cartControls>strong{min-width:90px;text-align:right}
+.removeBtn{color:#b65343;border:0;background:transparent;padding:6px}
+.addressLabel{font-size:13px;font-weight:700;color:#42524b}
+.addressInput{width:100%;padding:12px;border:1px solid #dce4df;border-radius:10px;outline:none}
+.openRxBtn{display:inline-flex;align-items:center;justify-content:center;background:#e8f4ee;color:#176b4f;border-radius:8px;padding:8px 11px;font-weight:650;margin-top:8px}
+.openRxBtn:hover{background:#d8eee3}
+@media(max-width:700px){.cartItem{align-items:flex-start;flex-direction:column}.cartControls{justify-content:flex-start}.cartControls>strong{min-width:auto}}

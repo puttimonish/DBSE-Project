@@ -38,11 +38,12 @@ function App() {
   const [notice, setNotice] = useState('');
   const [medicinesLoading, setMedicinesLoading] = useState(true);
   const [prescriptions, setPrescriptions] = useState([]);
+  const [address, setAddress] = useState('Demo Address, Hyderabad');
 
   const logout = () => {
     localStorage.removeItem('pf_token');
     localStorage.removeItem('pf_user');
-    if (user?.id) localStorage.removeItem(`pf_cart_${user.id}`);
+    // Keep pf_cart_<userId> so the customer gets the cart back after signing in again.
     localStorage.removeItem('pf_prescription_id');
     if (user?.id) localStorage.removeItem(`pf_prescription_id_${user.id}`);
     setToken(null);
@@ -142,12 +143,47 @@ function App() {
   function add(m) {
     setCart(current => {
       const found = current.find(x => x.id === m.id);
-      return found
-        ? current.map(x => x.id === m.id ? { ...x, qty: x.qty + 1 } : x)
-        : [...current, { ...m, qty: 1 }];
+      const stock = Number(m.stock || 0);
+
+      if (found) {
+        if (found.qty >= stock) {
+          setNotice(`Only ${stock} unit(s) of ${m.name} are available`);
+          return current;
+        }
+        return current.map(x => x.id === m.id ? { ...x, qty: x.qty + 1 } : x);
+      }
+
+      if (stock <= 0) {
+        setNotice(`${m.name} is currently unavailable`);
+        return current;
+      }
+
+      return [...current, { ...m, qty: 1 }];
     });
     setNotice(`${m.name} added to cart`);
     setTimeout(() => setNotice(''), 1800);
+  }
+
+  function changeQty(id, delta) {
+    setCart(current => current
+      .map(item => {
+        if (item.id !== id) return item;
+        const next = item.qty + delta;
+        const stock = Number(item.stock || 0);
+        if (next <= 0) return null;
+        if (next > stock) {
+          setNotice(`Only ${stock} unit(s) are available`);
+          return item;
+        }
+        return { ...item, qty: next };
+      })
+      .filter(Boolean)
+    );
+  }
+
+  function removeFromCart(id) {
+    setCart(current => current.filter(item => item.id !== id));
+    setNotice('Item removed from cart');
   }
 
   async function register(e) {
@@ -337,7 +373,7 @@ function App() {
             medicineId: x.id,
             quantity: x.qty
           })),
-          address: 'Demo Address, Hyderabad',
+          address,
           prescriptionId: prescriptionRequired ? Number(prescriptionId) : null,
           paymentMethod: 'COD'
         })
@@ -709,6 +745,25 @@ function App() {
                         <span className={`status ${String(p.status).toLowerCase()}`}>
                           {p.status}
                         </span>
+                        <button
+                          type="button"
+                          className="openRxBtn"
+                          onClick={async () => {
+                            try {
+                              const r = await fetch(`${API}/prescriptions/${p.id}/file`, {
+                                headers: { Authorization: `Bearer ${token}` }
+                              });
+                              if (!r.ok) throw new Error('Unable to open prescription');
+                              const url = URL.createObjectURL(await r.blob());
+                              window.open(url, '_blank', 'noopener,noreferrer');
+                              setTimeout(() => URL.revokeObjectURL(url), 60000);
+                            } catch {
+                              setNotice('Unable to open prescription file');
+                            }
+                          }}
+                        >
+                          View file
+                        </button>
                         {p.ocr_text && (
                           <p className="rxText">{p.ocr_text}</p>
                         )}
@@ -753,15 +808,33 @@ function App() {
           {cart.length ? (
             <>
               <div className="cart">
-                {cart.map(x => (
-                  <div key={x.id}>
-                    <span>{x.name} x {x.qty}</span>
-                    <strong>&#8377;{(x.price * x.qty).toFixed(2)}</strong>
-                  </div>
-                ))}
-              </div>
+  {cart.map(x => (
+    <div className="cartItem" key={x.id}>
+      <div className="cartInfo">
+        <strong>{x.name}</strong>
+        <small>{x.manufacturer || 'Pharmacy product'}</small>
+      </div>
+      <div className="cartControls">
+        <button type="button" onClick={() => changeQty(x.id, -1)}>-</button>
+        <span>{x.qty}</span>
+        <button type="button" onClick={() => changeQty(x.id, 1)}>+</button>
+        <strong>&#8377;{(Number(x.price) * x.qty).toFixed(2)}</strong>
+        <button type="button" className="removeBtn" onClick={() => removeFromCart(x.id)}>Remove</button>
+      </div>
+    </div>
+  ))}
+</div>
 
               <div className="summary">
+  <label className="addressLabel">Delivery address</label>
+  <input
+    className="addressInput"
+    value={address}
+    onChange={e => setAddress(e.target.value)}
+    placeholder="Enter delivery address"
+    maxLength={255}
+    required
+  />
                 <span>Total</span>
                 <strong>&#8377;{total.toFixed(2)}</strong>
                 <button
@@ -905,6 +978,24 @@ function Admin({ token, setNotice }) {
   const [data, setData] = useState(null);
   const [rx, setRx] = useState([]);
 
+  async function openPrescription(id) {
+    try {
+      const r = await fetch(`${API}/prescriptions/${id}/file`, {
+        headers: { Authorization: `Bearer ${token}` }
+      });
+      if (!r.ok) {
+        const d = await r.json().catch(() => ({}));
+        throw new Error(d.error || 'Unable to open prescription');
+      }
+      const blob = await r.blob();
+      const url = URL.createObjectURL(blob);
+      window.open(url, '_blank', 'noopener,noreferrer');
+      setTimeout(() => URL.revokeObjectURL(url), 60000);
+    } catch (e) {
+      setNotice(e.message || 'Unable to open prescription');
+    }
+  }
+
   useEffect(() => {
     if (!token) return;
 
@@ -976,7 +1067,7 @@ function Admin({ token, setNotice }) {
         <div className="rxrow" key={p.id}>
           <div>
             <strong>#{p.id} Ã¢â‚¬Â¢ {p.customer}</strong>
-            <p>{p.file_name}</p>
+            <p>{p.file_name}</p>`r`n            <button type="button" className="openRxBtn" onClick={() => openPrescription(p.id)}>Open prescription</button>
             <small>{p.ocr_text}</small>
           </div>
 
@@ -995,6 +1086,7 @@ function Admin({ token, setNotice }) {
 }
 
 createRoot(document.getElementById('root')).render(<App />);
+
 
 
 
