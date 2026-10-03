@@ -1,4 +1,4 @@
-name: Deploy PharmaFlow Frontend to GitHub Pages
+name: Deploy PharmaFlow Frontend
 
 on:
   push:
@@ -28,24 +28,23 @@ jobs:
         with:
           node-version: 20
           cache: npm
-          cache-dependency-path: pharmaflow/frontend/package-lock.json
+          cache-dependency-path: frontend/package-lock.json
 
       - name: Install dependencies
-        working-directory: pharmaflow/frontend
+        working-directory: frontend
         run: npm ci
 
       - name: Build frontend
-        working-directory: pharmaflow/frontend
-        run: npm run build
+        working-directory: frontend
+        run: npm run build -- --base=/DBSE-Project/
 
-      - name: Setup Pages
+      - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload Pages artifact
+      - name: Upload frontend
         uses: actions/upload-pages-artifact@v3
         with:
-          path: pharmaflow/frontend/dist
+          path: frontend/dist
 
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - name: Deploy
         uses: actions/deploy-pages@v4
